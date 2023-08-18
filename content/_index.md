@@ -1,5 +1,5 @@
 ---
-title: "History of recorded music"
+title: "DAD 492: History of recorded music"
 ---
 
 ![Recording on a phonograph, 1905.](https://www.historytoday.com/sites/default/files/1_Opener_Phonograph.jpg)

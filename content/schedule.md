@@ -10,7 +10,7 @@ author: ""
 ## Tuesday 
 
 * Syllabus overview
-* Headphone checkout 
+* sign up for [hypothes.is](https://hypothes.is/groups/y1MY2LB2/history-of-recorded-music)
 * Causes
     * Tangibility
     * Portability
