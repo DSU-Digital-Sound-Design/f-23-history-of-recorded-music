@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "home"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3
@@ -36,7 +36,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Course Name"
+    title = "History of recorded music"
     subtitle = "A simple, retro theme for Hugo"
     owner = "Tate Carson"
     keywords = ""
