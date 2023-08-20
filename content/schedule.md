@@ -5,20 +5,17 @@ author: ""
 ---
 
 {{< toc >}}
-## Week 1 (8/21) Capturing Sound in the Acoustic Era: Recording Professionals and Clever Mechanics
+
+# Week 1 (8/21) Capturing Sound in the Acoustic Era: Recording Professionals and Clever Mechanics
 
 ## Tuesday 
 
 * Syllabus overview
 * sign up for [hypothes.is](https://hypothes.is/groups/y1MY2LB2/history-of-recorded-music)
-* Causes
-    * Tangibility
-    * Portability
-    * (In)visibility
-    * Repeatability
-    * Temporality
-    * Receptivity
+* What are the [causes](../lectures/week-1/causes/) that make recording unique from live performance?
 
+
+> **Read**: [Connect – Summarize – Question – Reply Annotation Assignment Instructions](https://web.hypothes.is/resources/connect-summarize-question-reply-annotation-assignment-instructions/) and **respond** to questions on D2L about reading 
 ## Thursday 
 
 * History of microphones - from Paquette - only covers the earliest microphones here..you'll cover later ones in week 3
@@ -28,7 +25,16 @@ author: ""
 * Tricks of the Trade (Outsmarting Sound)
 * Training and Tacit Knowledge: What the Recordist Knew and How He Knew It
 
-<!-- ## Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small Studio Business
+<!-- ## Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small 
+
+## Tuesday
+
+Fieldtrip - visit the Lake County Museum!!! 
+
+
+## Thursday 
+
+Studio Business
 
 * Diffusion of Electrical Recording into Record Company Studios
 * The New Studio
