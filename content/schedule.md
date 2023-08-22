@@ -27,7 +27,7 @@ author: ""
 * Training and Tacit Knowledge: What the Recordist Knew and How He Knew It
 
 
-## Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small 
+# Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small 
 ## Tuesday
 
 Fieldtrip - visit the Lake County Museum!!! 
