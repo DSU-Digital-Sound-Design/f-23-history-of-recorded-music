@@ -10,7 +10,7 @@ author: ""
 
 ## Tuesday 
 
-* Syllabus overview
+* Review the syllabus
 * sign up for [hypothes.is](https://hypothes.is/groups/y1MY2LB2/history-of-recorded-music)
 * What are the [causes](../lectures/week-1/causes/) that make recording unique from live performance?
 
@@ -25,12 +25,13 @@ author: ""
 * Tricks of the Trade (Outsmarting Sound)
 * Training and Tacit Knowledge: What the Recordist Knew and How He Knew It
 
-<!-- ## Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small 
 
+## Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small 
 ## Tuesday
 
 Fieldtrip - visit the Lake County Museum!!! 
 
+<!-- 
 
 ## Thursday 
 
@@ -184,6 +185,7 @@ Create a recording that uses multitracking but no editing. Planning of a composi
 
 ## Week 10 (10/23) - Music in 1s and 0s: The Art and Politics of Digital Sampling
 
+* ATMI conference - move material to next week or assign students work while you're gone
 * What Is Digital Sampling?
 * The Uncommon Parlance Of Paul Lansky
 * From “Take Yo’ Praise” To “Praise You”
