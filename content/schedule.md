@@ -12,6 +12,7 @@ author: ""
 
 * Review the syllabus
 * sign up for [hypothes.is](https://hypothes.is/groups/y1MY2LB2/history-of-recorded-music)
+  * A quick tutorial on usage 
 * What are the [causes](../lectures/week-1/causes/) that make recording unique from live performance?
 
 
