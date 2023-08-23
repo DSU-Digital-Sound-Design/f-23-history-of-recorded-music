@@ -19,18 +19,14 @@ author: ""
 > **Read**: [Connect – Summarize – Question – Reply Annotation Assignment Instructions](https://web.hypothes.is/resources/connect-summarize-question-reply-annotation-assignment-instructions/) and **respond** to questions on D2L about reading 
 ## Thursday 
 
-* History of microphones - from Paquette - only covers the earliest microphones here..you'll cover later ones in week 3
-* The Studios of the Acoustical Era 
-* Recordists at Working the Studio: Clever Mechanics
-* Artists at Work in the Studio: Recording Professionals
-* Tricks of the Trade (Outsmarting Sound)
-* Training and Tacit Knowledge: What the Recordist Knew and How He Knew It
+* [History of microphones](../lectures/week-1/microphone-history/)
+* [Capturing Sound in the Acoustic Era: Recording Professionals and Clever Mechanics](../lectures/week-1/acoustic-era)
 
 
 # Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small 
 ## Tuesday
 
-Fieldtrip - visit the Lake County Museum!!! 
+Field trip - visit the Lake County Museum!!! 
 
 <!-- 
 
