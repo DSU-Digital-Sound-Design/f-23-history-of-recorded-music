@@ -26,26 +26,18 @@ author: ""
 # Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small 
 ## Tuesday
 
-Field trip - visit the Lake County Museum!!! 
-
-<!-- 
+* Acoustic Sound
+  * [Capturing Sound in the Acoustic Era: Recording Professionals and Clever Mechanics](../lectures/week-1/acoustic-era/#/4) - continue the slides from here
+* [The Studio Electrifies: Radio, Recording, and the Birth of the Small](../lectures/week-2/studio-electrifies/)
 
 ## Thursday 
 
-Studio Business
+Field trip - visit the Lake County Museum!!! 
 
-* Diffusion of Electrical Recording into Record Company Studios
-* The New Studio
-* Recording circa 1927: New Freedom in the Studio
-* Electrical Transcriptions, Instantaneous Recording, and the Birth of the Independent Recording Studio Business
-
-**Reading 1**
-
-* [Electronic Musical Instruments 1](https://worldradiohistory.com/hd2/IDX-Site-Technical/Engineering-General/Archive-Electronics-IDX/IDX/30s/Electronics-1933-03-OCR-Page-0009.pdf)
-* [Electronics-1933-03-OCR-Page-0016.pdf](https://worldradiohistory.com/hd2/IDX-Site-Technical/Engineering-General/Archive-Electronics-IDX/IDX/30s/Electronics-1933-03-OCR-Page-0016.pdf)
-
+<!-- 
 ## Week 3 (9/4) - A Passion for Sound: Amateur Recordists, the Audio Engineering Society, and the Evolution of a Profession
 
+* talk about listening test next week
 * Capturing the Moment, Falling in Love with the Phonograph: Amateurs and the Growth of Interest in Recording
 * The Audio Engineering Society, Audio Fairs, and Audiophiles
 * Start Project 1
