@@ -32,7 +32,10 @@ author: ""
 
 ## Thursday 
 
-Field trip - visit the Lake County Museum!!! 
+- Field trip - visit the Lake County Museum!!! 
+- Sign up for an account: [Library at i78s](https://i78s.org/)
+  - [Listen test list](../listening-tests/test-1/)
+- Finish: [The Studio Electrifies: Radio, Recording, and the Birth of the Small](../lectures/week-2/studio-electrifies/)
 
 <!-- 
 ## Week 3 (9/4) - A Passion for Sound: Amateur Recordists, the Audio Engineering Society, and the Evolution of a Profession
