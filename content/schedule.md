@@ -34,20 +34,26 @@ author: ""
 
 - Field trip - visit the Lake County Museum!!! 
 - Sign up for an account: [Library at i78s](https://i78s.org/)
-  - [Listen test list](../listening-tests/test-1/)
 - Finish: [The Studio Electrifies: Radio, Recording, and the Birth of the Small](../lectures/week-2/studio-electrifies/)
 
-<!-- 
-## Week 3 (9/4) - A Passion for Sound: Amateur Recordists, the Audio Engineering Society, and the Evolution of a Profession
+# Week 3 (9/4) - A Passion for Sound: Amateur Recordists, the Audio Engineering Society, and the Evolution of a Profession
 
-* talk about listening test next week
-* Capturing the Moment, Falling in Love with the Phonograph: Amateurs and the Growth of Interest in Recording
+## Tuesday 
+
+* [Listening Test 1 - Study Guide](../listening-tests/test-1/) - Tuesday, September 12 
+* Capturing the Moment, Falling in Love with the Phonograph: Amateurs and the Growth of Interest in Recording - [slides](../lectures/week-3/amateurs)
+
+Read: Choose one article from the first AES Journal - make three comments and a reply. You can reply on someone else's article. 
+## Thursday 
+
 * The Audio Engineering Society, Audio Fairs, and Audiophiles
-* Start Project 1
 
+
+<!-- 
 **Reading 2** - readings on home recording and HiFi home audio/ record collecting. Pick 3 or 4 articles and let the students choose. 
 
 * [The phonograph and how to use it](https://books.google.com/books?id=hT8IAAAAIAAJ&newbks=0&dq=the%20phonograph%20and%20how%20to%20use%20it&pg=PA5#v=onepage&q&f=false) - some interesting reading on the history of recording 
+  * Part 3 - Chapter 3 pg 152 - 159
 * [Presto History](https://web.archive.org/web/20211221123448/http://www.prestohistory.com/)
 * Home Recording
 	* Sential chromatrola - [HOMERECRADIO.pdf](https://durenberger.com/wp-content/uploads/2018/08/HOMERECRADIO.pdf)

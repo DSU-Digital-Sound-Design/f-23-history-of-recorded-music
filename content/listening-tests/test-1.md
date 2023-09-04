@@ -2,35 +2,15 @@
 title: "Listening 1: 1870s - 1930s"
 ---
 
-Based on [Recording Technology History](https://www.aes-media.org/historical/html/recording.technology.history/notes.html#cylinder)
-
-## Origins, 1877 - 1898
-
-- [Mary had a little lamb by Thomas Edison](https://archive.org/details/EDIS-SCD-02)
-
-## Labels 
-
-* Berliner 
-  * 1892 - [Geisterfunken - anon. piano](https://i78s.org/preview/6a6c781f6f93c7b368d5f9c9c38d414e)
-  * 1894 - [The Swiss Boy - With Variations - anon. cornet duet](https://i78s.org/preview/b8b2904da86db573d64ae265247dd055)
-  * 1898 - [The Stars and Stripes Forever - Sousa's Band](https://i78s.org/preview/3333bd199c18f8a436734b64766bb730)
-* Columbia 
-  * 1899 - [Poor O'Hoolihan - Dan W. Quinn](https://i78s.org/preview/a60794c1fdecfbcbaf2984429089ff59)
-  * 1904 - [The Gondolier - Author Collins](https://i78s.org/preview/b6019c98f54e5a9698bac84d95c86fee)
-  * 1907 - [The Skylark Polka - Prince's Band](https://i78s.org/preview/03064ad17c253c67bc46b66a259d14a9)
-  * 1907 - [Lord, I'm Coming Home - Anthoy & Harrison](https://i78s.org/preview/6b15d62aff454724f80d414f8a03fc50)
-  * 1915 - [Wrap Me In A Bundle and Take Me Home With You - Ada Jones & Will C. Robbins](https://i78s.org/preview/a43236260beb0950f0da0e16e5faac02)
-  * 1924 - [Bessie Smith - Sing Sing Prison Blues](https://i78s.org/preview/b548c6219185e27ca1c3162925a98baa)
-  * 1928 - [The Kentucky Girls - Old and Only In the Way](https://i78s.org/preview/f2e1f40da397c9df92c81d7f13c7aa4a)
-* Edison Cylinders 
-  * 1908 - [William Tell Overture - Edison Concert Band](https://i78s.org/preview/91fcad083b45ddc594545f6eebb4ee27)
-* Brunswick
-  * 1929 - [Blue Moaning Blues - Memphis Moose](https://i78s.org/preview/af3aeff0dd42532dd33a5eb844d61783)
-* Victor 
-  * 1929 - [The Carter Family - The Foggy Mountain Top](https://i78s.org/preview/ee7956e2b55da6c571bebcb9a530c184)
-  * 1931 - [The Carter Family - The Birds Were Singing of You](https://i78s.org/preview/007535802dbb7f315262f7f09bcc95e4)
-  
-> For the quz answer performer name, song title, and the recording date within five years. 
-
-      
-
+| Artist                          | Recording Title                  | Year | Recording Era | Label    | Description                                                       | Listen                                                                                                                 |
+| ------------------------------- | -------------------------------- | ---- | ------------- | -------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Thomas Edison                   | "Mary Had a Little Lamb"         | 1877 | acoustic      | n/a      | Early sound experiment, marking the beginning of audio recording. | [https://archive.org/details/EDIS-SCD-02](https://archive.org/details/EDIS-SCD-02)                                     |
+| Enrico Caruso                   | "Ave Maria"                      | 1913 | acoustic      | Victor   | Helped popularize opera and showcased recorded music.             | [https://i78s.org/preview/4ed1b48126dd1fe66de8196ad37857b1](https://i78s.org/preview/4ed1b48126dd1fe66de8196ad37857b1) |
+| Original Dixieland "Jass" Band  | "Livery Stable Blues"            | 1917 | acoustic      | Victor   | Often credited as the first jazz recording, pivotal for jazz.     | [https://i78s.org/preview/a7111ecc98b82aa10221bcd43b1828d4](https://i78s.org/preview/a7111ecc98b82aa10221bcd43b1828d4) |
+| Sergei Rachmaninoff             | "Prelude in C-sharp Minor"       | 1919 | acoustic      | Edison   | Celebrated classical piano recording.                             | [https://i78s.org/preview/0b0eb855e9e3937449308a4d472d172a](https://i78s.org/preview/0b0eb855e9e3937449308a4d472d172a) |
+| Bessie Smith                    | "Down Hearted Blues"             | 1923 | acoustic      | Columbia | Landmark blues recording, showcasing emotional depth.             | [https://i78s.org/preview/56abcb607796ab368791248ec46abd71](https://i78s.org/preview/56abcb607796ab368791248ec46abd71) |
+| Paul Whiteman and His Orchestra | "Rhapsody in Blue"               | 1924 | acoustic      | Victor   | Bridging classical and jazz music.                                | [https://i78s.org/preview/04efd4096ad37d673f4698d1701f3654](https://i78s.org/preview/04efd4096ad37d673f4698d1701f3654) |
+| Duke Ellington                  | "East St. Louis Toodle-Oo"       | 1927 | electrical    | Columbia | Early example of Ellington's innovative jazz compositions.        | [https://i78s.org/preview/ed8549589a2997810508a731e277df0c](https://i78s.org/preview/ed8549589a2997810508a731e277df0c) |
+| Jimmie Rodgers                  | "Blue Yodel No. 1 (T for Texas)" | 1927 | electrical    | Bluebird | Significant influence on country music.                           | [https://i78s.org/preview/3254fae4d57a85834bd7d9a1c8514652](https://i78s.org/preview/3254fae4d57a85834bd7d9a1c8514652) |
+| Louis Armstrong & His Hot Five  | "West End Blues"                 | 1928 | electrical    | Okeh     | Jazz masterpiece featuring Armstrong's talents.                   | [https://i78s.org/preview/ecda85d7f7d6c6be1d6224f99bbed5c9](https://i78s.org/preview/ecda85d7f7d6c6be1d6224f99bbed5c9) |
+| Carter Family                   | "Keep On the Sunny Side"         | 1928 | electrical    | Victor   | Influential in the country music genre.                           | [https://i78s.org/preview/dfdec27c04e91e9f269ec5893bffc437](https://i78s.org/preview/dfdec27c04e91e9f269ec5893bffc437) |
