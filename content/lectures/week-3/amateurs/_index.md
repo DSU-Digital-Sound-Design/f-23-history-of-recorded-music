@@ -123,7 +123,7 @@ Asch Records - [Art Tatum : Art Tatum](https://archive.org/details/78_art-tatum_
 ## Folkways Records
 
 * [Folkways Records | Smithsonian Folkways Recordings](https://folkways.si.edu/folkways-records/smithsonian)
-* [Koto: Music of the One-string Ichigenkin | Smithsonian Folkways Recordings](https://folkways.si.edu/isshi-yamada/koto-music-of-the-one-string-ichigenkin/world/music/album/smithsonian)
+* [Apple Music](https://music.apple.com/us/curator/smithsonian-folkways/1472788465)
 
 ---
 
@@ -131,15 +131,10 @@ Frank Laico
 
 ![](laico.jpg)
 
+[Frank Laico: Anatomy of a Session Pt 1](https://www.youtube.com/watch?v=KJbhGHmY_UA)
+
 {{% note %}}
-One of his most notable achievements was working as the chief engineer at the legendary recording studio, Capitol Studios in New York City, where he played a crucial role in recording sessions for artists like Frank Sinatra, Miles Davis, Nat King Cole, and many others. His expertise in recording technology and his ability to capture the essence of live performances in the studio made him highly respected in the field of audio engineering.
-
-World Broadcasting, the largest transcription program service: 
-Walking to different floors during his free time, one day he followed the sound of music, pushed open a heavy door and found himself in the recording room. “I found that so exciting,” Laico recalled, “I went in very quietly and started talking to the people in there, and I got fascinated, so I kept coming back.”37 Deciding that he would prefer this work to running the mimeo- graph machine, Laico asked the engineer in charge, Harold Lester, how he might transfer to the recording department.
-
-Within two years, Laico was running one of World’s three studios and earn- ing a substantial raise
-
-
+One of his most notable achievements was working as the chief engineer at the legendary recording studio, **Capitol Studios** in New York City, where he played a crucial role in recording sessions for artists like **Frank Sinatra, Miles Davis, Nat King Cole, and many others**. His expertise in recording technology and his ability to capture the essence of live performances in the studio made him highly respected in the field of audio engineering.
 
 {{%/ note %}}
 

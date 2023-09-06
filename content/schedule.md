@@ -46,7 +46,10 @@ author: ""
 Read: Choose one article from the first AES Journal - make three comments and a reply. You can reply on someone else's article. 
 ## Thursday 
 
-* The Audio Engineering Society, Audio Fairs, and Audiophiles
+* **20 minutes** - Listening practice 
+* Finish the [slides](../lectures/week-3/amateurs/#/8) from Tuesday. 
+* [The Audio Engineering Society, Audio Fairs, and Audiophiles](../lectures/week-3/aes/) 
+  * Discuss articles you read when we get to the first issue. 
 
 
 <!-- 
