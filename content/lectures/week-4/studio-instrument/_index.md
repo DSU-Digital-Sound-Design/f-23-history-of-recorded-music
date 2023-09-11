@@ -45,11 +45,17 @@ slide_number = true
 
 [Music: 35-cent Records - TIME](https://content.time.com/time/subscriber/article/0,33009,748024,00.html) 
 
-[Bob Wills & His Texas Playboys – San Antonio Rose (Vinyl) - Discogs](https://www.discogs.com/release/12940151-Bob-Wills-His-Texas-Playboys-San-Antonio-Rose)
-
 {{% note %}}
 The upswing in record sales began in 1934 when RCA revived its long-dormant recording division by advertising phonograph records in radio trade magazines, and a new company, Decca Records, introduced the thirty-five-cent record that featured jazz and popular music by name artists such as Bing Crosby, Chick Webb, Ella Fitzgerald, and the Mills Brothers
 {{%/ note %}}
+
+---
+
+## More Decca
+
+* [‎Decca Records: Country in the '30s and '40s on Apple Music](https://music.apple.com/us/playlist/decca-records-country-in-the-30s-and-40s/pl.4ebadd2dfcc9481d8b1548e3a2999f29)
+* [‎Decca Records: Jazz and Blues in the '30s and '40s on Apple Music](https://music.apple.com/kn/playlist/decca-records-jazz-and-blues-in-the-30s-and-40s/pl.5c7f7e24aacb4502befd22918670e508)
+
 
 ---
 
