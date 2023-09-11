@@ -69,22 +69,30 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * [The Saturday review home book of recorded music and sound reproduction : Canby, Edward Tatnall : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/saturdayreviewho00canb/page/n9/mode/2up) - guide book on HiFi, really interesting, should assign this I think. 
 * [AES - First issue](https://www.aes.org/tmpFiles/elib/20230628/18785.pdf) - log in and download 
 
+-->
 
-**Interactive timeline project**
+# Week 4 (9/11) - When High Fidelity Was New: The Studio as Instrument 
 
-https://timeline.knightlab.com/ - 10 objects or people that are important to the historical development of the time period. 
+## Tuesday
 
-## Week 4 (9/11) - When High Fidelity Was New: The Studio as Instrument 
+* **20 minutes**: Listening Test 1 - 1870s-1929
+* **10 minutes**: Explain timeline project
+* **45 minutes**: Lecture
+  * [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/)
 
-* Record Boom: The Record Industry, Broadcasting Studios, and Recording Studios
-* The Modern Broadcast Studio: NBC Radio City and CBS
-* Recording Studios: RCA Victor, Decca, Columbia, Capitol
-* Mimicking the Hall: Spring Reverb, “Echo” Chambers, EMT Plates
-* “Music was not what was played . . . but rather what people heard”: Adventures in Microphoning
-* Producers and Engineers: Collaboration and Skillful Manipulation
-* Start Project 1 tape recording 
+> **Interactive timeline project**: https://timeline.knightlab.com/ - 10 objects or people that are important to the historical development of the time period. 
+> 
+> **Due September 19th**
+>
+> **Reading**: 
+> * [NBC's new studios in Radio City](https://worldradiohistory.com/Archive-Electronics/30s/Electronics-1933-12.pdf) - pg 8 - great (3 pages) article about the NBC studios 
+> * [CBS Studio Building](https://usmodernist.org/AF/AF-1940-09.pdf) - pg 89 - great pictures, but there's more writing in the previous article 
 
-**Listening test 1**
+## Thursday
+
+- No class: DSU day of service 
+
+<!--
 
 **Reading 3** - pick one article 
 
@@ -104,10 +112,12 @@ https://timeline.knightlab.com/ - 10 objects or people that are important to the
 * Again - [How echos are produced](https://worldradiohistory.com/ARCHIVE-RCA/RCA-Broadcast-News/RCA-13.pdf) pg 28 - a great early article on echo 
 * [The man behind the microphones](https://archive.org/details/sim_newsweek-us_1952-09-08_40_10/page/56/mode/2up)
 
-
+-->
+<!--
 
 ## Week 5 (9/18) - Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity
 
+* Start Project 1 tape recording
 * From Disc to Tape
 * Record Length, Time Limitations, and the LP
 * Microphoning
