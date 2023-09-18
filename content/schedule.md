@@ -118,9 +118,11 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Tuesday
 
+- Present interactive timeline projects 
 - Continue [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/7)
 ## Thursday 
 
+- Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/7)
 * Start Project 1 tape recording
 * From Disc to Tape
 * Record Length, Time Limitations, and the LP
