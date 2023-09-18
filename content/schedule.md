@@ -113,9 +113,13 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * [The man behind the microphones](https://archive.org/details/sim_newsweek-us_1952-09-08_40_10/page/56/mode/2up)
 
 -->
-<!--
 
-## Week 5 (9/18) - Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity
+# Week 5 (9/18) - Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity
+
+## Tuesday
+
+- Continue [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/7)
+## Thursday 
 
 * Start Project 1 tape recording
 * From Disc to Tape
@@ -127,6 +131,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 the Art of Controlling Sound
 * The Studio Working Environment: Teamwork and Collaboration in the Trading Zone
 
+<!--
 **Reading 4**
 
 * [CreatingtheCraftof Tape Recording](https://worldradiohistory.com/Archive-All-Audio/Archive-High-Fidelity/70s/High-Fidelity-1976-04.pdf) - pg 84 - some great pictures of Mullin and tape recorders; great intro to Mullins and tape recording history 
