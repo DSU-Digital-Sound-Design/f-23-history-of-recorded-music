@@ -122,16 +122,11 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 - Continue [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/7)
 ## Thursday 
 
-- Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/7)
-* Start Project 1 tape recording
-* From Disc to Tape
-* Record Length, Time Limitations, and the LP
-* Microphoning
-* Recording Consoles and Black Boxes: The Control Man’s Instruments
-* Stereo, the End of the 78, and the Coming of Multi-track
-* Engineering the Performance: Tacit Knowledge and
-the Art of Controlling Sound
-* The Studio Working Environment: Teamwork and Collaboration in the Trading Zone
+- The other timeline presentations 
+- Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/15)
+- Start Project 1 tape recording AKA tape is broken - using the Toft to record. 
+  - Use our stairwell for reverb 
+
 
 <!--
 **Reading 4**
@@ -146,8 +141,24 @@ the Art of Controlling Sound
 
 Sony TC-366 Reel-to-Reel recording - Create a recording with one microphone and the reel-to-reel tape recorder.  The recording should include three or more people playing live. Create your mix by placing louder instruments further away. To get the best sound, pay special attention to the types of instruments used and their placement in the room. This may require experimentation. Note: if we can't get this to work you'll use a DAW, but pretend it's a tape recorder. Still no editing. 
 
-## Week 6 (9/25) - The Search for the Sound: Rhythm and Blues, Rock ’n’ Roll, and the Rise of the Independents
+# Week 6 (9/25) - The Search for the Sound: Rhythm and Blues, Rock ’n’ Roll, and the Rise of the Independents
 
+## Tuesday
+
+- Setup routing with the Toft
+  - Just use two ribbon micrphones
+  - a send to the stairwell, TCB hall, or both 
+  - everything recorded live
+  - no edits 
+
+* From Disc to Tape
+* Record Length, Time Limitations, and the LP
+* Microphoning
+* Recording Consoles and Black Boxes: The Control Man’s Instruments
+* Stereo, the End of the 78, and the Coming of Multi-track
+* Engineering the Performance: Tacit Knowledge and
+the Art of Controlling Sound
+* The Studio Working Environment: Teamwork and Collaboration in the Trading Zone
 * From Polka to Punk: The Cleveland Recording Company
 * “Hum Your Tune. Hits Start at Schneider Recording”
 * The Rube Goldberg Approach to Building a Studio: Boddie Recording
