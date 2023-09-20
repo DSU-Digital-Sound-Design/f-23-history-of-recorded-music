@@ -124,8 +124,6 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 - The other timeline presentations 
 - Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/15)
-- Start Project 1 tape recording AKA tape is broken - using the Toft to record. 
-  - Use our stairwell for reverb 
 
 
 <!--
@@ -148,8 +146,10 @@ Sony TC-366 Reel-to-Reel recording - Create a recording with one microphone and 
 - Setup routing with the Toft
   - Just use two ribbon micrphones
   - a send to the stairwell, TCB hall, or both 
-  - everything recorded live
-  - no edits 
+  - everything recorded live, no edits 
+  - Record ATB-L and ATB-R into Reaper with one stereo track.
+
+## Thursday 
 
 * From Disc to Tape
 * Record Length, Time Limitations, and the LP
