@@ -134,20 +134,21 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * [Singers and the song : Lees, Gene : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/singerssong00gene/page/106/mode/2up) - pg 105 - the Sinatra effect
 * [18798.pdf](https://www.aes.org/tmpFiles/elib/20230704/18798.pdf) - pg 19; Some great pictures and info on early consoles for recording and editing; search the number and download 
 * [WhatisaTonmeister?](https://worldradiohistory.com/Archive-All-Audio/Archive-DB-Magazine/70s/DB-1973-10.pdf) - pg 28; great article about tonmeister history 
+-->
 
-**Project 1**
-
-Sony TC-366 Reel-to-Reel recording - Create a recording with one microphone and the reel-to-reel tape recorder.  The recording should include three or more people playing live. Create your mix by placing louder instruments further away. To get the best sound, pay special attention to the types of instruments used and their placement in the room. This may require experimentation. Note: if we can't get this to work you'll use a DAW, but pretend it's a tape recorder. Still no editing. 
 
 # Week 6 (9/25) - The Search for the Sound: Rhythm and Blues, Rock ’n’ Roll, and the Rise of the Independents
 
 ## Tuesday
 
+- Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/29)
 - Setup routing with the Toft
-  - Just use two ribbon micrphones
+  - Just use two ribbon microphones
   - a send to the stairwell, TCB hall, or both 
   - everything recorded live, no edits 
-  - Record ATB-L and ATB-R into Reaper with one stereo track.
+  - Record ATB-L and ATB-R into Reaper with one stereo track for backup 
+
+> [Project 1: Reel-to-Reel](../projects/project-1/) - Due 
 
 ## Thursday 
 
@@ -165,6 +166,7 @@ the Art of Controlling Sound
 * “Hit Factory”: Bell Sound Studios, New York City
 * Start Project 2
 
+<!--
 **Reading 5**
 
 * [afternoon\_putnam.pdf](https://www.aes.org/aeshc/docs/afternoon_putnam.pdf) - great article about bill putnam 
