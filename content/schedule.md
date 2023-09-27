@@ -141,16 +141,28 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Tuesday
 
-- Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/29)
 - Setup routing with the Toft
   - Just use two ribbon microphones
   - a send to the stairwell, TCB hall, or both 
   - everything recorded live, no edits 
   - Record ATB-L and ATB-R into Reaper with one stereo track for backup 
 
-> [Project 1: Reel-to-Reel](../projects/project-1/) - Due 
+> [Project 1: Reel-to-Reel](../projects/project-1/) - Due 10/5
 
 ## Thursday 
+
+- Review reel-to-reel assignment and routing 
+- Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/29)
+- **Cool project**: [Home » Chamber Reverb Challenge](https://chamberreverbchallenge.com/)
+- Exploring [plugin models](../lectures/week-6/reverb-plugins/) of historical reverbs 
+
+<!--
+**Reading 5**
+
+* [afternoon\_putnam.pdf](https://www.aes.org/aeshc/docs/afternoon_putnam.pdf) - great article about bill putnam 
+
+
+## Week 7 (10/2) - Channeling Sound: Technology, Control, and Fixing It in the Mix
 
 * From Disc to Tape
 * Record Length, Time Limitations, and the LP
@@ -164,15 +176,7 @@ the Art of Controlling Sound
 * “Hum Your Tune. Hits Start at Schneider Recording”
 * The Rube Goldberg Approach to Building a Studio: Boddie Recording
 * “Hit Factory”: Bell Sound Studios, New York City
-* Start Project 2
 
-<!--
-**Reading 5**
-
-* [afternoon\_putnam.pdf](https://www.aes.org/aeshc/docs/afternoon_putnam.pdf) - great article about bill putnam 
-
-
-## Week 7 (10/2) - Channeling Sound: Technology, Control, and Fixing It in the Mix
 
 * Recording in Layers
 * Multi-tracking: Creative Tool or Crutch?
