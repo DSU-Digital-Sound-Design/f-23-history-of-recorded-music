@@ -137,7 +137,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 -->
 
 
-# Week 6 (9/25) - The Search for the Sound: Rhythm and Blues, Rock ’n’ Roll, and the Rise of the Independents
+# Week 6 (9/25) 
 
 ## Tuesday
 
@@ -152,18 +152,20 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 ## Thursday 
 
 - Review reel-to-reel assignment and routing 
+
+## Week 7 (10/2)
+
+## Tuesday 
+
+- Questions about the reel-to-reel project?
 - Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/29)
 - **Cool project**: [Home » Chamber Reverb Challenge](https://chamberreverbchallenge.com/)
 - Exploring [plugin models](../lectures/week-6/reverb-plugins/) of historical reverbs 
 
 <!--
-**Reading 5**
+## Thursday 
 
-* [afternoon\_putnam.pdf](https://www.aes.org/aeshc/docs/afternoon_putnam.pdf) - great article about bill putnam 
-
-
-## Week 7 (10/2) - Channeling Sound: Technology, Control, and Fixing It in the Mix
-
+* Listen to reel-to-reel projects from tape 
 * From Disc to Tape
 * Record Length, Time Limitations, and the LP
 * Microphoning
