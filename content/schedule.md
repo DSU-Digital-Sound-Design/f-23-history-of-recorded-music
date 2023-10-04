@@ -153,7 +153,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 - Review reel-to-reel assignment and routing 
 
-## Week 7 (10/2)
+# Week 7 (10/2)
 
 ## Tuesday 
 
@@ -162,24 +162,34 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 - **Cool project**: [Home » Chamber Reverb Challenge](https://chamberreverbchallenge.com/)
 - Exploring [plugin models](../lectures/week-6/reverb-plugins/) of historical reverbs 
 
-<!--
 ## Thursday 
 
 * Listen to reel-to-reel projects from tape 
-* From Disc to Tape
-* Record Length, Time Limitations, and the LP
-* Microphoning
-* Recording Consoles and Black Boxes: The Control Man’s Instruments
-* Stereo, the End of the 78, and the Coming of Multi-track
-* Engineering the Performance: Tacit Knowledge and
-the Art of Controlling Sound
-* The Studio Working Environment: Teamwork and Collaboration in the Trading Zone
+* [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men/)
+
+
+
+**Reading 6**
+
+* [The Making of Pet Sounds](http://www.albumlinernotes.com/The_Making_of_Pet_Sounds.html)
+* [In The Studio](http://www.albumlinernotes.com/In_The_Studio.html)
+* [RevvingUp The Rock Revolution](https://worldradiohistory.com/Archive-All-Audio/Archive-Tape-Recording/60s/Tape-Recording-1969-07-08.pdf) - pg 6
+
+**Interactive StoryMap Project**
+
+http://storymap.knightlab.com/
+Show how a piece of technology developed in different places on a map. You could also use it to annotate an image. One example could be to annotate an image of a recording session. What mic, room, and performers? 
+
+<!--
+
+
+## Week 8 (10/9) - In-class work on the mid-term project 
+
+**Listening Test 2**
 * From Polka to Punk: The Cleveland Recording Company
 * “Hum Your Tune. Hits Start at Schneider Recording”
 * The Rube Goldberg Approach to Building a Studio: Boddie Recording
 * “Hit Factory”: Bell Sound Studios, New York City
-
-
 * Recording in Layers
 * Multi-tracking: Creative Tool or Crutch?
 * Fixing It in the Mix, and in the Master: Post-Mixing Music, Postponing Decisions
@@ -187,31 +197,6 @@ the Art of Controlling Sound
 * Recording Jazz: Control versus Spontaneity
 * Recording Rock: The New Cult(ure) of the Studio
 
-**Reading 6**
-
-* [18816.pdf](https://www.aes.org/tmpFiles/elib/20230706/18816.pdf) - 39
-* [The Making of Pet Sounds](http://www.albumlinernotes.com/The_Making_of_Pet_Sounds.html)
-* [In The Studio](http://www.albumlinernotes.com/In_The_Studio.html)
-* [RevvingUp The Rock Revolution](https://worldradiohistory.com/Archive-All-Audio/Archive-Tape-Recording/60s/Tape-Recording-1969-07-08.pdf) - pg 6
-* [18929.pdf](https://www.aes.org/tmpFiles/elib/20230707/18929.pdf) - pg 214
-
-Pick one? 
-
-**Interactive StoryMap Project**
-
-http://storymap.knightlab.com/
-Show how a piece of technology developed in different places on a map. You could also use it to annotate an image. One example could be to annotate an image of a recording session. What mic, room, and performers? 
-
-
-## Week 8 (10/9) - In-class work on the mid-term project
-
-10/13 - Mid-term project due 
-
-**Projct 2 - Mid-term Multitracking**
-
-Create a recording that uses multitracking but no editing. Planning of a composition will be required to create a suitable recording. You must record using the Toft console. 
-
-**Listening Test 2**
 
 ## Week 9 (10/16) - Electronic music 
 
