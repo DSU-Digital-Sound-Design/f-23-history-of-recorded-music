@@ -165,27 +165,19 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 ## Thursday 
 
 * Listen to reel-to-reel projects from tape 
-* [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men/)
-
-
-
-**Reading 6**
-
-* [The Making of Pet Sounds](http://www.albumlinernotes.com/The_Making_of_Pet_Sounds.html)
-* [In The Studio](http://www.albumlinernotes.com/In_The_Studio.html)
-* [RevvingUp The Rock Revolution](https://worldradiohistory.com/Archive-All-Audio/Archive-Tape-Recording/60s/Tape-Recording-1969-07-08.pdf) - pg 6
-
-**Interactive StoryMap Project**
-
-http://storymap.knightlab.com/
-Show how a piece of technology developed in different places on a map. You could also use it to annotate an image. One example could be to annotate an image of a recording session. What mic, room, and performers? 
-
-<!--
-
-
-## Week 8 (10/9) - In-class work on the mid-term project 
 
 **Listening Test 2**
+<!-- TODO: update this list!  -->
+
+
+# Week 8 (10/9) - In-class work on the mid-term project 
+
+## Tuesday 
+
+- Finish listening to reel-to-reel projects
+- [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men/)
+
+<!--
 * From Polka to Punk: The Cleveland Recording Company
 * “Hum Your Tune. Hits Start at Schneider Recording”
 * The Rube Goldberg Approach to Building a Studio: Boddie Recording
@@ -197,6 +189,11 @@ Show how a piece of technology developed in different places on a map. You could
 * Recording Jazz: Control versus Spontaneity
 * Recording Rock: The New Cult(ure) of the Studio
 
+
+**Interactive StoryMap Project**
+
+http://storymap.knightlab.com/
+Show how a piece of technology developed in different places on a map. You could also use it to annotate an image. One example could be to annotate an image of a recording session. What mic, room, and performers? 
 
 ## Week 9 (10/16) - Electronic music 
 
