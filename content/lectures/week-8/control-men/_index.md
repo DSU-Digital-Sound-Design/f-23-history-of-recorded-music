@@ -321,6 +321,45 @@ Overall, the types of microphones used in recording history have evolved over ti
 
 ---
 
+## Neumann U 47
+
+* Large-diaphragm condenser microphone with a warm and musical sound
+* Wide frequency response for accurate reproduction of a wide range of frequencies
+* Excellent transient response for capturing the quick attacks and releases of sound waves
+* Versatile microphone that can be used to record a variety of instruments and vocals in a variety of recording environments
+
+> [Tube Mic Shootout - Acoustic Guitar | recording hacks](http://recordinghacks.com/2010/06/09/acoustic-guitar-tube-mic-shootout/)
+
+{{% note %}}
+The Neumann U 47: https://en.wikipedia.org/wiki/Neumann_U_47 is a large-diaphragm condenser microphone that was manufactured by Georg Neumann GmbH during the years 1949-1965. It is considered to be one of the best microphones ever made, and it is still used by recording engineers today.
+
+The U 47 is a tube microphone, which means that it uses a vacuum tube to amplify the signal. Vacuum tubes are known for their warm and musical sound, which is why many recording engineers prefer to use tube microphones.
+
+The U 47 has a wide frequency response, which means that it can accurately reproduce a wide range of frequencies. This makes it ideal for recording a variety of instruments and vocals.
+
+The U 47 is also known for its excellent transient response. This means that it can accurately capture the quick attacks and releases of sound waves. This is important for recording instruments such as drums and guitars, which have a lot of transients.
+
+The U 47 is a very versatile microphone. It can be used to record a variety of instruments and vocals, and it can be used in a variety of recording environments. It is a popular choice for recording studios, but it is also used by live sound engineers and podcasters.
+
+Here are some of the features that make the Neumann U 47 such a popular microphone:
+
+* Large-diaphragm condenser microphone with a warm and musical sound
+* Wide frequency response for accurate reproduction of a wide range of frequencies
+* Excellent transient response for capturing the quick attacks and releases of sound waves
+* Versatile microphone that can be used to record a variety of instruments and vocals in a variety of recording environments
+
+The Neumann U 47 is a classic microphone that is still used by recording engineers today. It is a great choice for anyone who is looking for a high-quality microphone that can produce excellent results.
+
+{{%/ note %}}
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0T9hPWTZr6s?si=VKU3q5vvAueZuw7j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## Mercury Living Presence Series - U47
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xz296L9PJXg?si=wJhA3ojJqFUg962w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
@@ -331,6 +370,8 @@ Overall, the types of microphones used in recording history have evolved over ti
 **Conclusion**
 Clair Krepps and Bob Fine were two of the first recording engineers to use the Neumann U47 microphone. Their use of this microphone revolutionized classical recording by allowing them to capture the sound of the orchestra and the ambience of the hall in a more natural way.
 {{%/ note %}}
+
+
 
 ---
 
@@ -348,11 +389,79 @@ Clair Krepps and Bob Fine were two of the first recording engineers to use the N
 
 The Pultec EQP-1A3 Equalizer is a two-band passive equalizer that was first released in the 1950s. It is known for its warm and musical sound, and it is still used by many recording engineers today.
 
+Here are the features of the Pultec EQP-1A3 equalizer in bullet points:
+
+* Two-band passive equalizer
+* Low shelf band from 200 Hz to 1 kHz
+* High shelf band from 2 kHz to 20 kHz
+* Separate boost and cut controls for each band
+* Bandwidth control for each band
+* Warm, punchy, and musical sound
+* Versatile equalizer that can be used on a variety of instruments and vocals
+
+
 {{%/ note %}}
 
 ---
 
+## Pultec Demo
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U3bhyfBt-DE?si=fZD9HYVRkGDKgHtV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bum-aMRFGSw?si=RJ2ALUiT3CerpL2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+* Many engineers used microphone technique instead of relying on equalizers.
+* Al Schmitt learned microphone technique early in his career because **Apex Recording**, the studio where he worked, had only one equalizer.
+* Schmitt learned to get the sounds he wanted by microphone choice.
+* Ribbon microphones were more forgiving of imperfections in a vocal performance.
+* To rely on microphone choice and to avoid equalization altogether, an engineer needed to know their microphones and where to place them.
+{{%/ note %}}
+
+---
+
+## Microphone technique 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ng3XJnC8IN8?si=n5zjSFh7ykniZYoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+**Summary of the section with bullet points:**
+
+* Microphone choice and placement are critical factors in recording.
+* The singers' microphone technique also helps.
+* Singers regulate their relative volume by leaning in to the mike on low or soft notes and backing off a bit on the high or loud notes.
+* Frank Sinatra is widely regarded as the first to master microphone technique.
+* Sinatra used the microphone to create a sense of intimacy and drama in his recordings.
+
+**Good example to listen to:**
+
+Frank Sinatra - "Some Enchanted Evening"
+
+This song is a good example of Sinatra's mastery of microphone technique. He uses a soft, intimate tone on the low notes and then builds to a more powerful delivery on the high notes. He also uses a variety of dynamics and inflections to create a sense of drama and emotion.
+
+
+{{%/ note %}}
+
+---
+
+![](gobo.JPG)
+
+{{% note %}}
+**Difficulties with recording Sintra**
+
+* The wider range of good microphones gave engineers greater flexibility, but also posed difficulties in balancing an array of instruments and voices.
+* Recording brass and strings was a challenge without the use of baffles (gobos) to isolate the instruments from one another.
+* Frank Sinatra did not want to be isolated in a vocal booth and insisted on recording live with the band.
+* This left engineers little control over the relative volume of his voice.
+* The challenge for engineers was to capture and balance all the instruments, including Sinatra's voice, so that the overall mix worked.
+* They positioned Sinatra on the floor in front of the stage where the musicians performed to elevate the instruments enough to prevent their direct sound from leaking into the vocal microphone and thus overwhelming Sinatra's voice.
+* This "very simple splay" only partially worked because it did not keep the sound of the orchestra completely out of the vocal mike, and because arranger Nelson Riddle used a lot of strings and a lot of brass, it was a constant fight to make all those things come out.
+* RCA engineer Ray Hall agreed that the most difficult challenge was recording brass and violins at the same time, because the brass would overpower the violin mikes.
+* Because of the time constraints on the sessions, they did the best they could by using baffles, but eliciting the cooperation of the musicians in how they played and where they stood was important.
+
+{{%/ note %}}
 
 ---
 
