@@ -254,6 +254,106 @@ The introduction of these technological innovations in the late 1940s and early 
 
 ##  Microphoning
 
+<img src="mic-diagrams.png" width=75% alt="AES">
+
+{{% note %}}
+- Recording engineers in the 1950s had a wide range of instruments at their disposal, including microphones, mixing consoles, amplifiers, pre-amplifiers, equalizers, compressors, limiters, tape recorders, cutting styli, lathes, blank discs, cables, vacuum tubes, and loudspeakers.
+- These instruments allowed them to capture and manipulate sound in ways that were not possible before.
+- One of the most important aspects of recording in the 1950s was the selection and placement of microphones.
+- Engineers experimented with different types of microphones and placements to achieve the desired sound.
+- This became an art form, and it played a major role in shaping the sound of the music of the era.
+{{%/ note %}}
+
+---
+
+## Microphones 
+
+
+* **Condenser microphones** were the first to be used in electrical recording, but they were expensive and complex.
+* **Dynamic microphones** were introduced later and were more affordable and durable, making them more popular for recording.
+* **Ribbon microphones** offered a unique sound that was popular with many recording engineers.
+* In the 1950s, the **Neumann U47** condenser microphone was developed, which offered the best sound quality and flexibility of any microphone available at the time.
+
+
+{{% note %}}
+
+**Condenser microphones**
+* The first microphones to accompany the electrical recording system in the 1920s
+* More expensive and complex than dynamic microphones, but offered superior sound quality
+
+**Dynamic microphones**
+* Introduced by Western Electric in the late 1920s
+* Simple and durable, making them ideal for many applications of disc recording
+* The most popular microphones for recording in the 1930s and 1940s
+
+**Ribbon microphones**
+* Introduced by RCA in the 1930s
+* Offered a unique sound that was popular with many recording engineers
+
+**Neumann U47 condenser microphone**
+* Developed in 1947
+* Offered a wider dynamic and frequency range than any other previous microphone
+* Became the vocal microphone of choice for Frank Sinatra, among others
+* Made single-mike recording of symphonic music possible
+
+Overall, the types of microphones used in recording history have evolved over time, with each new type offering its own unique advantages.
+{{%/ note %}}
+
+---
+
+![](used_neumann_u47__1249_cat-2495586779.jpg)
+
+{{% note %}}
+**Clair Krepps**
+* An engineer who set up Capitol Records’ first New York studio
+* Among the first recording engineers in the United States to use the Telefunken mike
+
+**Peggy Lee and the Stan Kenton band**
+* Krepps used the Telefunken mike to record Peggy Lee's vocals with the Stan Kenton band
+* He believed the mike would provide support for Lee's relatively soft voice
+
+**Neumann U47 microphone**
+* A directional microphone that can be adjusted
+* Ideal for orchestral as well as close-miking of either voices or instruments
+
+
+{{%/ note %}}
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xz296L9PJXg?si=wJhA3ojJqFUg962w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+**Mercury Living Presence Series**
+* The first record in the series was released in 1951
+* Engineer Bob Fine used a single U47 microphone to capture the performance and the natural ambience of the room
+
+**Conclusion**
+Clair Krepps and Bob Fine were two of the first recording engineers to use the Neumann U47 microphone. Their use of this microphone revolutionized classical recording by allowing them to capture the sound of the orchestra and the ambience of the hall in a more natural way.
+{{%/ note %}}
+
+---
+
+## Equalization
+
+![](s-l960.jpg)
+
+{{% note %}}
+* Early equalizers were noisy and made audible clicks when adjusted.
+* They also caused a full twenty-four decibel loss, which required the use of another amplifier to correct.
+* Oliver Summerlin and Gene Shenk, two New Jersey audio engineers, developed the first quality equalizer for recording, the Pultec.
+* The Pultec is still a highly valued piece of vintage gear today.
+* Summerlin and Shenk designed the Pultec to be undetectable when used.
+
+
+The Pultec EQP-1A3 Equalizer is a two-band passive equalizer that was first released in the 1950s. It is known for its warm and musical sound, and it is still used by many recording engineers today.
+
+{{%/ note %}}
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3bhyfBt-DE?si=fZD9HYVRkGDKgHtV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 
 ##  Recording Consoles and Black Boxes: The Control Man’s Instruments

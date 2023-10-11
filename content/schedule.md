@@ -8,49 +8,49 @@ author: ""
 
 # Week 1 (8/21) Capturing Sound in the Acoustic Era: Recording Professionals and Clever Mechanics
 
-## Tuesday 
+## Tuesday
 
 * Review the syllabus
 * sign up for [hypothes.is](https://hypothes.is/groups/y1MY2LB2/history-of-recorded-music)
-  * A quick tutorial on usage 
+  * A quick tutorial on usage
 * What are the [causes](../lectures/week-1/causes/) that make recording unique from live performance?
 
-
-> **Read**: [Connect – Summarize – Question – Reply Annotation Assignment Instructions](https://web.hypothes.is/resources/connect-summarize-question-reply-annotation-assignment-instructions/) and **respond** to questions on D2L about reading 
-## Thursday 
+> **Read**: [Connect – Summarize – Question – Reply Annotation Assignment Instructions](https://web.hypothes.is/resources/connect-summarize-question-reply-annotation-assignment-instructions/) and **respond** to questions on D2L about reading
+>
+## Thursday
 
 * [History of microphones](../lectures/week-1/microphone-history/)
 * [Capturing Sound in the Acoustic Era: Recording Professionals and Clever Mechanics](../lectures/week-1/acoustic-era)
 
+# Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small
 
-# Week 2 (8/28) - The Studio Electrifies: Radio, Recording, and the Birth of the Small 
 ## Tuesday
 
 * Acoustic Sound
   * [Capturing Sound in the Acoustic Era: Recording Professionals and Clever Mechanics](../lectures/week-1/acoustic-era/#/4) - continue the slides from here
 * [The Studio Electrifies: Radio, Recording, and the Birth of the Small](../lectures/week-2/studio-electrifies/)
 
-## Thursday 
+## Thursday
 
-- Field trip - visit the Lake County Museum!!! 
-- Sign up for an account: [Library at i78s](https://i78s.org/)
-- Finish: [The Studio Electrifies: Radio, Recording, and the Birth of the Small](../lectures/week-2/studio-electrifies/)
+* Field trip - visit the Lake County Museum!!!
+* Sign up for an account: [Library at i78s](https://i78s.org/)
+* Finish: [The Studio Electrifies: Radio, Recording, and the Birth of the Small](../lectures/week-2/studio-electrifies/)
 
 # Week 3 (9/4) - A Passion for Sound: Amateur Recordists, the Audio Engineering Society, and the Evolution of a Profession
 
-## Tuesday 
+## Tuesday
 
-* [Listening Test 1 - Study Guide](../listening-tests/test-1/) - Tuesday, September 12 
+* [Listening Test 1 - Study Guide](../listening-tests/test-1/) - Tuesday, September 12
 * Capturing the Moment, Falling in Love with the Phonograph: Amateurs and the Growth of Interest in Recording - [slides](../lectures/week-3/amateurs)
 
-Read: Choose one article from the first AES Journal - make three comments and a reply. You can reply on someone else's article. 
-## Thursday 
+Read: Choose one article from the first AES Journal - make three comments and a reply. You can reply on someone else's article.
 
-* **20 minutes** - Listening practice 
-* Finish the [slides](../lectures/week-3/amateurs/#/8) from Tuesday. 
-* [The Audio Engineering Society, Audio Fairs, and Audiophiles](../lectures/week-3/aes/) 
-  * Discuss articles you read when we get to the first issue. 
+## Thursday
 
+* **20 minutes** - Listening practice
+* Finish the [slides](../lectures/week-3/amateurs/#/8) from Tuesday.
+* [The Audio Engineering Society, Audio Fairs, and Audiophiles](../lectures/week-3/aes/)
+  * Discuss articles you read when we get to the first issue.
 
 <!-- 
 **Reading 2** - readings on home recording and HiFi home audio/ record collecting. Pick 3 or 4 articles and let the students choose. 
@@ -71,7 +71,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 -->
 
-# Week 4 (9/11) - When High Fidelity Was New: The Studio as Instrument 
+# Week 4 (9/11) - When High Fidelity Was New: The Studio as Instrument
 
 ## Tuesday
 
@@ -80,17 +80,18 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * **45 minutes**: Lecture
   * [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/)
 
-> **Interactive timeline project**: https://timeline.knightlab.com/ - 10 objects or people that are important to the historical development of the time period. 
-> 
+> **Interactive timeline project**: <https://timeline.knightlab.com/> - 10 objects or people that are important to the historical development of the time period.
+>
 > **Due September 19th**
 >
-> **Reading**: 
-> * [NBC's new studios in Radio City](https://worldradiohistory.com/Archive-Electronics/30s/Electronics-1933-12.pdf) - pg 8 - great (3 pages) article about the NBC studios 
-> * [CBS Studio Building](https://usmodernist.org/AF/AF-1940-09.pdf) - pg 89 - great pictures, but there's more writing in the previous article 
+> **Reading**:
+>
+> * [NBC's new studios in Radio City](https://worldradiohistory.com/Archive-Electronics/30s/Electronics-1933-12.pdf) - pg 8 - great (3 pages) article about the NBC studios
+> * [CBS Studio Building](https://usmodernist.org/AF/AF-1940-09.pdf) - pg 89 - great pictures, but there's more writing in the previous article
 
 ## Thursday
 
-- No class: DSU day of service 
+* No class: DSU day of service
 
 <!--
 
@@ -118,13 +119,13 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Tuesday
 
-- Present interactive timeline projects 
-- Continue [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/7)
-## Thursday 
+* Present interactive timeline projects
+* Continue [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/7)
 
-- The other timeline presentations 
-- Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/15)
+## Thursday
 
+* The other timeline presentations
+* Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/15)
 
 <!--
 **Reading 4**
@@ -136,46 +137,49 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * [WhatisaTonmeister?](https://worldradiohistory.com/Archive-All-Audio/Archive-DB-Magazine/70s/DB-1973-10.pdf) - pg 28; great article about tonmeister history 
 -->
 
-
-# Week 6 (9/25) 
+# Week 6 (9/25)
 
 ## Tuesday
 
-- Setup routing with the Toft
-  - Just use two ribbon microphones
-  - a send to the stairwell, TCB hall, or both 
-  - everything recorded live, no edits 
-  - Record ATB-L and ATB-R into Reaper with one stereo track for backup 
+* Setup routing with the Toft
+  * Just use two ribbon microphones
+  * a send to the stairwell, TCB hall, or both
+  * everything recorded live, no edits
+  * Record ATB-L and ATB-R into Reaper with one stereo track for backup
 
 > [Project 1: Reel-to-Reel](../projects/project-1/) - Due 10/5
 
-## Thursday 
+## Thursday
 
-- Review reel-to-reel assignment and routing 
+* Review reel-to-reel assignment and routing
 
 # Week 7 (10/2)
 
-## Tuesday 
+## Tuesday
 
-- Questions about the reel-to-reel project?
-- Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/29)
-- **Cool project**: [Home » Chamber Reverb Challenge](https://chamberreverbchallenge.com/)
-- Exploring [plugin models](../lectures/week-6/reverb-plugins/) of historical reverbs 
+* Questions about the reel-to-reel project?
+* Finish [When High Fidelity Was New: The Studio as Instrument](../lectures/week-4/studio-instrument/#/29)
+* **Cool project**: [Home » Chamber Reverb Challenge](https://chamberreverbchallenge.com/)
+* Exploring [plugin models](../lectures/week-6/reverb-plugins/) of historical reverbs
 
-## Thursday 
+## Thursday
 
-* Listen to reel-to-reel projects from tape 
+* Listen to reel-to-reel projects from tape
 
-**Listening Test 2**
 <!-- TODO: update this list!  -->
 
+# Week 8 (10/9) - In-class work on the mid-term project
 
-# Week 8 (10/9) - In-class work on the mid-term project 
+## Tuesday
 
-## Tuesday 
+* Finish listening to reel-to-reel projects
+* [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men/)
 
-- Finish listening to reel-to-reel projects
-- [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men/)
+## Thursday
+
+* More [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men//#/11)
+
+**Listening Test 2**: [Link](../listening-tests/test-2/)
 
 <!--
 * From Polka to Punk: The Cleveland Recording Company
@@ -189,18 +193,16 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * Recording Jazz: Control versus Spontaneity
 * Recording Rock: The New Cult(ure) of the Studio
 
-
-**Interactive StoryMap Project**
-
-http://storymap.knightlab.com/
-Show how a piece of technology developed in different places on a map. You could also use it to annotate an image. One example could be to annotate an image of a recording session. What mic, room, and performers? 
-
 ## Week 9 (10/16) - Electronic music 
 
 * Holmes, Thom. Electronic and Experimental Music: Technology, Music, and Culture. United Kingdom: Taylor & Francis, 2015.[iBooks]
 * Brend. (2012). The sound of tomorrow : how electronic music was smuggled into the mainstream. Bloomsbury.[library](https://dsu.primo.exlibrisgroup.com/permalink/01SDBOR_DSU/1njvbkr/alma9993905425703642)
 * Start Project 3 
  
+ **Interactive StoryMap Project**
+
+http://storymap.knightlab.com/
+Show how a piece of technology developed in different places on a map. You could also use it to annotate an image. One example could be to annotate an image of a recording session. What mic, room, and performers? 
 
 ## Week 10 (10/23) - Music in 1s and 0s: The Art and Politics of Digital Sampling
 
@@ -248,8 +250,6 @@ Create a musical composition based entirely on other recordings. These can be we
 
 Chapter 1 - This is not a remix
 
-
-
 **Introduce final project** 
 
 ## Week 13 (11/13) - Making music with DAWS - 2010s
@@ -261,7 +261,6 @@ Chapter 1 - This is not a remix
   
 ## Week 14 (11/20) - recording in the age of music streaming - current 
 
-
 - Butler. (2014). Playing with Something That Runs Technology, Improvisation, and Composition in DJ and Laptop Performance. Oxford University Press, USA.
 
 **Reading**
@@ -271,7 +270,3 @@ Chapter 1 - This is not a remix
 ## Week 15 (11/27) - Individual meetings on final projects  
 
 ## Week 16 (12/4) - Exam Week  -->
-
-
-
-
