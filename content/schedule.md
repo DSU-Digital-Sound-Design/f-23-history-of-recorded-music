@@ -179,7 +179,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 * More [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men//#/11)
 
-**Listening Test 2**: [Link](../listening-tests/test-2/)
+**Listening Test 2**: [Link](../listening-tests/test-2/) - October 24 
 
 <!--
 * From Polka to Punk: The Cleveland Recording Company
