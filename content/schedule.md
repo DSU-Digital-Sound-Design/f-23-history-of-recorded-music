@@ -202,7 +202,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
  **Interactive StoryMap Project**
 
 http://storymap.knightlab.com/
-Show how a piece of technology developed in different places on a map. You could also use it to annotate an image. One example could be to annotate an image of a recording session. What mic, room, and performers? 
+Show how a piece of technology developed in different places on a map. Did a piece of technology get developed at different place and times? That might work well for a StoryMap. 
 
 ## Week 10 (10/23) - Music in 1s and 0s: The Art and Politics of Digital Sampling
 
