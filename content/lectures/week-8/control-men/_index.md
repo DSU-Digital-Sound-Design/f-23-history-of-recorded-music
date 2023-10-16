@@ -466,14 +466,169 @@ This song is a good example of Sinatra's mastery of microphone technique. He use
 ---
 
 ##  Recording Consoles and Black Boxes: The Control Man’s Instruments
+
+
+{{% note %}}
+
+* Early control panels were vertical racks with volume controls and meters, built by Western Electric.
+* By 1930s, studios used broadcast consoles with sloping desk and upright back panel for meters and controls.Companies like Western Electric, Raytheon, Gates, and RCA manufactured these consoles for radio use, and recording studios adopted the technology.
+* Unlike the early Western Electric racks designed for standing operation, the broadcast consoles were desk height so engineers could sit while working.
+{{%/ note %}}
+
 ---
+
+## Langevin Console
+
+![](xLangevin_Tube_Console_Full-View.jpg.pagespeed.ic.LQwVJbmIgL.jpg)
+
+[Langevin Tube Console](https://www.historyofrecording.com/Langevin_Tube_Console.html)
+
+{{% note %}}
+* The engineering departments at Columbia and RCA Victor custom-built recording consoles for their studios into the 1950s. Independent manufacturers like Langevin didn't start producing consoles specifically for recording studios until around that time.
+* Langevin incorporated improved volume control mechanisms into their consoles. This demonstrates how a small change like the design of the volume control could have a much bigger effect on the engineer's work.
+* The most used volume control was the German-made Daven fader. Engineers found these stiff and awful to use - they were meant for submarine commanders, not audio mixers. Langevin and Cinema Engineering introduced smoother rotary slide-wire faders that felt better to use.
+{{%/ note %}}
+
+---
+
+**Audio Console Design Notes**
+
+<iframe src="audio-console.pdf" width=75% height=750></iframe>
+
+{{% note %}}
+
+* Article discusses design of consoles for commercial recording studios, looking at several mixing consoles and an editing console.
+* Fig. 1 shows a functional console in use in a busy studio, with sloped panel, compact jack field, and pushbuttons for echo and playback.  Olmsted Sound Studios, Inc.
+* Fig. 2 details the center panel - 6 mic inputs, 2 high level inputs, pushbuttons to select playback sources that feed the 2 high level inputs.
+* Fig. 3 is the block diagram showing the signal flow through the console.
+* Console allows easy selection of mics and playback sources to route to echo or sound effects using pushbuttons.
+* Fig. 4 shows the interior with vertical amplifiers and horizontal mixing/branching networks. Compact layout but accessible.
+* Fig. 5 shows console for larger studio - more vertical mic mixer layout. Has transfer keys to route each channel to main or submixer. Coastal Recording Corporation
+* Fig. 6 is partial block diagram of Fig. 5 console - shows mic channels can be routed to main or submixer networks.
+* Individual channel equalization allows tailoring each mic's frequency response to correct room acoustics.
+* Fig. 7 shows more advanced console with selectors, limiters, and level matching facilities using transformers.
+* Fig. 8 shows compact editing/dubbing console with recorders and rack equipment within reach.  Olmsted Sound Studios, Inc.
+* Fig. 9 is block diagram of editing console - simple gating of playback sources to recorder or monitor/cue circuits.
+
+{{%/ note %}}
+
+
+---
+
+**Tom Dowd**
+
+![](Tom-Dowd-1.jpg)
+
+{{% note %}}
+* In 1956, Tom Dowd built his own console at Atlantic Records by recycling available materials. He didn't like commercial console designs that put the heat-generating tubes and amplifiers right by the engineer's knees.
+* Dowd reconfigured the layout to put all the electronics behind the engineer and used an old studio door for the console surface. This DIY approach was common among independent engineers seeking better designs.
+* Consoles changed in ways that made operations easier for engineers, like grouping instruments logically and using slide-wire faders that enabled nuanced mixing by fingertip control.
+{{%/ note %}}
+  
+---
+
+<iframe src="https://player.vimeo.com/video/367465076?h=5b4794a46a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/367465076">TOM DOWD &amp; THE LANGUAGE OF MUSIC Trailer In HD</a> from <a href="https://vimeo.com/moormannfilms">Mark Moormann</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+{{% note %}}
+Tom Dowd was a pioneering recording engineer and producer who had a long and influential career in the music industry. Some key facts about him:
+
+- Started as a recording engineer at Atlantic Records in the 1950s, later became a producer.
+- Worked closely with Atlantic founders Ahmet Ertegun and Jerry Wexler on many classic jazz, R&B, and rock albums.
+- Engineered and produced records for Ray Charles, John Coltrane, Ornette Coleman, Aretha Franklin, Otis Redding, Cream, Lynyrd Skynyrd and many other renowned artists.
+- Was known for his innovative use of multi-track recording and creative production techniques.
+  - As early as 1952, Atlantic Records engineer Tom Dowd was recording sessions in both mono and 2-track stereo formats. He used a staggered-head Magnecorder tape machine to capture a 2-track stereo feed alongside the mono recording. 
+  - Dowd had the foresight to archive Atlantic's recordings in stereo years before stereo LPs existed, knowing that stereo records and home playback systems would eventually become a reality and Atlantic would have a catalog ready to release in the new format.
+- Built his own mixing console for Atlantic's studio using salvaged parts including an old studio door.
+- Had a background in music and physics but learned engineering on the job, gaining deep tacit knowledge.
+- Was respected for his musicality, creativity and ability to get great performances out of artists in the studio.
+- Pioneered the use of stereo recording and multitrack techniques in the 1950s and 60s. 
+- Inducted into the Rock and Roll Hall of Fame in 2002 in the Non-Performer category for his technical and production work.
+- Remained an active producer into the 2000s, accumulating over 200 gold and platinum records over his career.
+{{%/ note %}}
+
+---
+
 
 ##  Stereo, the End of the 78, and the Coming of Multi-track
+
+
+
+{{% note %}}
+- RCA Victor started conducting experiments with stereo recording sessions in 1954 to determine the potential of the new technology. They wanted to see what stereo could offer both technically and commercially before adopting it.
+
+{{%/ note %}}
+
+
 ---
 
-##  Engineering the Performance: Tacit Knowledge and the Art of Controlling Sound
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlagwjphwXA?si=h2aqX9b7C9fmHvjT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+The first commercially available stereo recordings were released on reel-to-reel tape in the early 1950s, before the introduction of stereo vinyl records. Some key early milestones in commercial stereo recording history:
+* 1952 - Emory Cook released the first commercial stereo reel-to-reel tapes containing binaural recordings he made at the 1952 Chicago Railroad Fair.
+{{%/ note %}}
+
 ---
 
-##  The Studio Working Environment: Teamwork and Collaboration in the Trading Zone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9y81hCpDt6o?si=Y5tu0ZeAbU63_BmB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+- In 1955, studio owner and engineer Bob Fine began making 3-track stereo recordings for the Mercury Living Presence series. He used custom-built Ampex 3-track tape machines to create these early stereo albums.
+
+Here is a summary of the key points about the Mercury Living Presence discography from the PDF:
+
+- Mercury Living Presence was a legendary catalog of classical music recordings started in 1951 by Robert and Wilma Cozart Fine. 
+- They used innovative recording techniques with high quality microphones and tape machines to capture realistic and detailed sound.
+- The mono recordings from 1951-1955 used a single Schoeps M201 microphone.
+- In 1955 they switched to pioneering 3-track stereo using two Neumann KM56 microphones on the sides and an M201 in the center.
+- The height of the mics averaged 12 feet above the conductor to capture room ambience.
+- They recorded on Ampex 300-3 half-inch tape machines at 15 ips. Some sessions were on 35mm magnetic film for lower noise. 
+- Wilma Fine hand-mixed the 3-track tapes down to stereo, feeding the lathe cutter directly for more lifelike LPs.
+- By 1967 when the original team departed, there were over 300 Living Presence titles released.
+- In the 1990s, Wilma Fine remastered the recordings for CD reissue, using dCS A/D converters and Sony 1630 recorders. 
+- She took great care to capture the original three-micstereo image and sound quality.
+- New LP and CD reissues were recently released by Universal, cut from Wilma Fine's digital masters since the original tapes are not accessible.
+- The recordings are still praised for their realistic sound and interpretation, as well as the repertoire chosen by the producers.
+{{%/ note %}}
 
 ---
+
+![](simplified-recorder.png)
+
+[The Westrex System](The_Westrex_Stereo_Disk_System.pdf)
+
+{{% note %}}
+- During the 1950s, a number of record labels issued stereo recordings on reel-to-reel tapes before stereo disc cutting and playback technology was fully developed. The tapes offered early adopters a stereo listening experience.
+- Since no viable stereo disc cutting system had been created yet, the labels could only release stereo on tape until the late 1950s when Westrex introduced the first commercial stereo disc cutters.
+- In 1958, after extensive testing and discussion, the record industry agreed on a standardized system for stereophonic disc recording through the Recording Industry Association of America (RIAA). 
+- The adoption of this uniform stereo recording standard by all the major labels was crucial in enabling compatible stereo LPs that could be played on monophonic record players using one channel.
+- By Fall of 1958, Westrex made the first stereo disc cutting machines available to professional studios after the standard was set. Engineer Bill Stoddard recalled Universal Recording in Chicago acquiring one of the first models and retiring their mono lathe.
+
+Here is a summary of the key points about stereo recording from this 1958 paper, along with explanations of the figures:
+
+- The paper introduces the Westrex StereoDisk system for recording two stereophonic channels in a single record groove.
+- The two channels are recorded with their axes at 90 degrees to each other, each channel at 45 degrees to the horizontal record surface. 
+- This 45-45 orthogonal system provides symmetry between channels and compatibility with monophonic lateral playback.
+- Figure 2 in the Westrex StereoDisk System paper shows a simplified illustration of the stereo disk recorder. Some key elements shown:
+  - There are two magnetic coil assemblies positioned at 90 degrees to each other. 
+  - Each coil assembly contains a drive coil and a feedback coil.
+    - The drive coils are connected to drive the stylus through stiff wire linkages.
+    - The feedback coils are part of feedback control loops to provide stability. 
+    - A single magnet provides equal magnetic flux to both coil assemblies.
+    - The stylus is mounted on a tubular cantilever spring that allows motion in any direction.
+    - A damper is attached to the stylus mounting to smooth peaks in the monitor output.
+    - Copper shields between the coils reduce inductive crosstalk from the drive coils to the feedback coils.
+
+**In summary, Figure 2 illustrates how the two channel stereophonic recorder is constructed using orthogonal magnetic coil assemblies to drive the cutting stylus, with feedback control for each channel.**
+
+- Fig. 5 shows cross-sections of the 45-45 stereo groove for different input conditions - one channel only, two channels in-phase, two channels out-of-phase.
+- Figs. 6 and 7 are photomicrographs showing the lateral and vertical groove modulations produced by the 45-45 system.
+- The recorder uses electrodynamic feedback with moving coils to cut the complex stereo grooves. Feedback provides stability and linearity.
+- The reproducer also uses moving coils at 45 degrees to trace the complex grooves and recover the original stereo signals.
+- Figs. 11 and 14 show the mechanical design of the reproducer with orthogonal coils driving the stylus.
+- Tracking angle differences between recorder and reproducer introduce distortion, analyzed in Figs. 12 and 13.
+- Fig. 15 shows the frequency response of one reproducer channel, indicating good performance to 15 kHz. 
+- Figs. 16 and 17 show low harmonic and intermodulation distortion, comparing lateral, vertical and 45 degree recordings.
+- Overall the 45-45 system provided high quality stereophonic sound from a single groove compatible with monophonic playback.
+{{%/ note %}}

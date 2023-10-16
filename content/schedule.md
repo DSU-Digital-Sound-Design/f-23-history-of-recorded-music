@@ -179,9 +179,26 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 * More [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men//#/11)
 
-**Listening Test 2**: [Link](../listening-tests/test-2/) - October 24 
+
+
+
+# Week 9 (10/16)  
+
+## Tuesday 
+
+* **Listening Test 2**: [Link](../listening-tests/test-2/) - October 24 
+* **Interactive StoryMap Project**: [project outline](../projects/interactive-project-2/) - Due October 26
+* More [Control Men in Technological Transition: Engineering the Performance in the Age of High Fidelity](../lectures/week-8/control-men//#/20) 
+ 
+
+## Thursday 
+
+
 
 <!--
+## Week 10 (10/23) - Music in 1s and 0s: The Art and Politics of Digital Sampling
+
+* ATMI conference - move material to next week or assign students work while you're gone
 * From Polka to Punk: The Cleveland Recording Company
 * “Hum Your Tune. Hits Start at Schneider Recording”
 * The Rube Goldberg Approach to Building a Studio: Boddie Recording
@@ -192,21 +209,9 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * Multi-tracking and the Demise of Live Recording
 * Recording Jazz: Control versus Spontaneity
 * Recording Rock: The New Cult(ure) of the Studio
-
-## Week 9 (10/16) - Electronic music 
-
 * Holmes, Thom. Electronic and Experimental Music: Technology, Music, and Culture. United Kingdom: Taylor & Francis, 2015.[iBooks]
 * Brend. (2012). The sound of tomorrow : how electronic music was smuggled into the mainstream. Bloomsbury.[library](https://dsu.primo.exlibrisgroup.com/permalink/01SDBOR_DSU/1njvbkr/alma9993905425703642)
 * Start Project 3 
- 
- **Interactive StoryMap Project**
-
-http://storymap.knightlab.com/
-Show how a piece of technology developed in different places on a map. Did a piece of technology get developed at different place and times? That might work well for a StoryMap. 
-
-## Week 10 (10/23) - Music in 1s and 0s: The Art and Politics of Digital Sampling
-
-* ATMI conference - move material to next week or assign students work while you're gone
 * What Is Digital Sampling?
 * The Uncommon Parlance Of Paul Lansky
 * From “Take Yo’ Praise” To “Praise You”
