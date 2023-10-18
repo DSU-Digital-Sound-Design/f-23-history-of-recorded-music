@@ -193,22 +193,14 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Thursday 
 
+* Talk about topics for interactive project 
+* [The Search for the Sound: Rhythm and Blues, Rock ’n’ Roll, and the Rise of the Independents](../lectures/week-9/search-for-sound/)
 
 
 <!--
 ## Week 10 (10/23) - Music in 1s and 0s: The Art and Politics of Digital Sampling
 
 * ATMI conference - move material to next week or assign students work while you're gone
-* From Polka to Punk: The Cleveland Recording Company
-* “Hum Your Tune. Hits Start at Schneider Recording”
-* The Rube Goldberg Approach to Building a Studio: Boddie Recording
-* “Hit Factory”: Bell Sound Studios, New York City
-* Recording in Layers
-* Multi-tracking: Creative Tool or Crutch?
-* Fixing It in the Mix, and in the Master: Post-Mixing Music, Postponing Decisions
-* Multi-tracking and the Demise of Live Recording
-* Recording Jazz: Control versus Spontaneity
-* Recording Rock: The New Cult(ure) of the Studio
 * Holmes, Thom. Electronic and Experimental Music: Technology, Music, and Culture. United Kingdom: Taylor & Francis, 2015.[iBooks]
 * Brend. (2012). The sound of tomorrow : how electronic music was smuggled into the mainstream. Bloomsbury.[library](https://dsu.primo.exlibrisgroup.com/permalink/01SDBOR_DSU/1njvbkr/alma9993905425703642)
 * Start Project 3 
