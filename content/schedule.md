@@ -196,9 +196,18 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * Talk about topics for interactive project 
 * [The Search for the Sound: Rhythm and Blues, Rock ’n’ Roll, and the Rise of the Independents](../lectures/week-9/search-for-sound/)
 
+# Week 10 (10/23) 
+
+## Tuesday 
+
+- Listening test 
+- [The Search for the Sound: Rhythm and Blues, Rock ’n’ Roll, and the Rise of the Independents](../lectures/week-9/search-for-sound/#/7)
+
+## Thursday 
+
+- At conference, finish your presentation if you haven't already. 
 
 <!--
-## Week 10 (10/23) - Music in 1s and 0s: The Art and Politics of Digital Sampling
 
 * ATMI conference - move material to next week or assign students work while you're gone
 * Holmes, Thom. Electronic and Experimental Music: Technology, Music, and Culture. United Kingdom: Taylor & Francis, 2015.[iBooks]

@@ -134,7 +134,217 @@ Here is a summary of the key points from the article "All Buttons In: An investi
 
 ---
 
-## From Polka to Punk: The Cleveland Recording Company
+## From Polka to Punk
+
+#### The Cleveland Recording Company
+
+[CLEVELAND RECORDING CO. | Encyclopedia of Cleveland History | Case Western Reserve University](https://case.edu/ech/articles/c/cleveland-recording-co)
+
+{{% note %}}
+#### Background and Key People
+- Frederick C. Wolf, a Czechoslovakian émigré and radio announcer, started a recording studio in Cleveland, Ohio, in the mid-1930s.
+- Wolf was not an engineer or a musician but a businessman and community leader.
+- Collaborated with other nationality announcers like Joe Pales, “Heinie” Martin Antoncic, John Lewandowski, and Jimmy Rose.
+
+#### Cultural Context and Programming
+- Cleveland was a hub for ethnic music during the 1930s, notably gaining the title "Polka Town."
+- Wolf and his associates broadcast music from various ethnic backgrounds such as Czech, Slovak, Slovenian, Polish, and Hungarian every Sunday morning.
+
+#### Business Ventures and Adaptation
+- Formed the Nationalities Broadcasting Association and initiated an award to encourage quality in ethnic broadcasting.
+- Bought Sunday morning "dead air" time at special rates, acquired sponsors, and hired local musicians to broadcast music live.
+- Paid musicians in a mix of scrip (a Depression-era currency substitute) and cash, showcasing Wolf’s knack for business.
+
+#### Shift to Recorded Programming
+- Due to the inconvenience of the Sunday morning timings, Wolf decided to record his programs.
+- Capitalized on his investment in a Presto transcription disc recorder by allowing other nationality announcers to record their shows for a fee.
+- This initiative led to the formation of the Cleveland Recording Company.
+
+By combining his skills in business and his passion for ethnic music, Frederick C. Wolf played a pivotal role in the cultural landscape of 1930s Cleveland, and in the process, laid the groundwork for the Cleveland Recording Company.
+
+{{% /note %}}
+
+
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7S9Rd5GRdo?si=q0oebfxrW4oxd5Cv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Frankie Yankovic's Slovene Orchestra – Živahna Polka / Vadnal Valček (1944, Shellac) - Discogs](https://www.discogs.com/release/11824533-Frankie-Yankovics-Slovene-Orchestra-%C5%BDivahna-Polka-Vadnal-Val%C4%8Dek)
+
+{{% note %}}
+### Summary: Frankie Yankovic's Impact on Cleveland Recording Company and Polka Music
+
+#### Initial Collaboration with Cleveland Recording Company
+- In 1938, Frederick Wolf recorded Frankie Yankovic, who would later become known as the "Polka King" and a Grammy Award winner.
+- At that time, Yankovic was working in factories during the day and performing in local taverns at night.
+
+#### Struggles and Early Success
+- Yankovic had initially been turned down by major record labels Columbia and RCA Victor.
+- His first two 78 RPM records, featuring three Slovenian polkas and a waltz medley, were made at Cleveland Recording and sold well locally.
+  
+#### WWII Era and Military Service
+- Yankovic joined the US Army in 1943 but continued recording at Cleveland Recording during his furloughs.
+- Demonstrated resourcefulness by recording thirty-two sides in a single afternoon session.
+
+#### Yankovic’s Unique Approach to Recording
+- Adopted a casual attitude toward recording, insisting that minor mistakes be left in the final product.
+- Believed that the recordings should capture the spontaneous spirit of live performances.
+  
+#### Impact on Cleveland Recording and Beyond
+- Yankovic's approach to recording might not have been acceptable at larger labels like Columbia or RCA, but his leadership paved the way for the recording session.
+- Despite their imperfections, the early records made at Cleveland Recording helped Yankovic secure a contract with Columbia Records in 1946.
+- These records also helped to establish Cleveland Recording as the go-to place for Cleveland's polka musicians to record.
+
+Frankie Yankovic's collaboration with Cleveland Recording not only catapulted his own career but also significantly boosted the studio's reputation. His unique approach to recording, emphasizing spontaneity and authenticity over studio-perfected sound, found a fitting home at Cleveland Recording, contributing to the legacy of both the artist and the studio.
+{{% /note %}}
+
+---
+
+####  duke jenkins and his orchestra with mr. jo-jo spoons - mambo blues (pennant) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbvaz-Kcz2M?si=m2q0WH-ddSfrtZ2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+Cleveland records recording from the 1950s 
+{{% /note %}}
+
+
+
+---
+
+#### Kenneth Richard Hamann
+
+![](hamman.jpg)
+
+{{% note %}}
+### Summary: Expansion of Cleveland Recording in 1950s and Kenneth Richard Hamann's Impact
+
+#### New Location and Radio Station
+- In 1950, Frederick Wolf achieved his ambition of opening his own radio station, WDOK, focused primarily on nationality broadcasting.
+- Wolf relocated Cleveland Recording to the fourth floor of the Loew’s State Theater Building, coinciding with the new radio station.
+
+#### Kenneth Richard Hamann's Hiring
+- Wolf hired Kenneth Richard Hamann, a navy veteran, as an engineer for both WDOK and Cleveland Recording.
+- Hamann had a rich background in electronics and music, including a FCC First Class broadcast engineer’s license and membership in the Institute of Radio Engineers.
+
+#### Early Roles and Work
+- Hamann initially juggled roles, splitting his time between monitoring the transmitter and overseeing recording sessions.
+- The studio mainly served advertising agencies and corporations like Ohio Bell, Kirby, and Westinghouse, offering synchronized recordings for employee training films.
+
+#### Technical Innovations
+- Hamann was increasingly drawn to the recording aspect of his job, and he engaged in various experiments to extend the studio’s capabilities.
+- Built custom equipment, including monitoring and switching devices, to overcome the limitations of disc recording technology.
+  
+#### Job Security and Industry Influence
+- Hamann's complex equipment setup essentially made him indispensable, as he was the only one who knew how to operate it.
+- He was aware of contemporary advancements in audio technology through his involvement in industry groups, which he used to give Cleveland Recording a competitive edge.
+
+The 1950s saw Cleveland Recording diversify and modernize significantly. Not only did the studio benefit from a new, strategic location and the ambition of its founder, Frederick Wolf, but it also gained a technical mastermind in Kenneth Richard Hamann. Hamann's technical innovations, dedication, and industry insight gave Cleveland Recording a technological and competitive advantage, ensuring its position as a noteworthy institution in the broadcasting and recording landscape.
+{{% /note %}}
+
+---
+
+### Chart Success in the 1960s
+
+<div style="display: flex; justify-content: space-between;">
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/TaUY9unRYAY?si=hKYolOL34bPQxV3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <p>The Montclairs’ instrumental "Happy Feet Time" became the studio’s first record to hit the national charts in 1965.</p>
+        </div>
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/AiBfjtYS1mo?si=SjGiLcbA_n37uW2J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <p>The Outsiders’s "Time Won’t Let Me" reached number five on the Billboard pop charts in 1966.</p>
+        </div>
+    </div>
+
+{{% note %}}
+### Summary: Shift in Clientele and Musical Trends at Cleveland Recording in the Early 1960s
+
+#### Evolving Clientele
+- While commercial clients and polka groups continued to bring in revenue, the studio began to attract a new range of artists, including popular singers, rhythm-and-blues groups, and rock bands.
+  
+#### Influence of Cultural Shifts
+- Cleveland's teens, inspired by the rock revolution of the mid-'50s, began to move away from traditional instruments like the accordion, opting instead for the guitar or saxophone.
+  
+#### Local Bands and Aspiring Artists
+- Local groups like Joey and the Continentals, Rocco and the Flames, the Montclairs, and Tom King and the Starfires started recording at the studio.
+- These bands aimed to create demonstration records to send to major recording labels.
+
+#### Chart Successes
+- The Montclairs’ instrumental "Happy Feet Time" became the studio’s first record to hit the national charts in 1965.
+- The Outsiders’s "Time Won’t Let Me" reached number five on the Billboard pop charts in 1966.
+
+By the early 1960s, Cleveland Recording began to feel the influence of broader musical and cultural shifts in America. While it maintained its traditional commercial and ethnic music clientele, it also became a hub for emerging talents in popular, R&B, and rock music. This new direction was notably successful, with local bands recording tracks that achieved national acclaim, marking a significant chapter in the studio’s evolving history.
+{{% /note %}}
+
+---
+
+##  Cleveland Recording Studio's Evolution and Success (1966-1973)
+
+[Studer A80 MKIV 1/2" 4-Track Tape Machine | Reverb](https://reverb.com/item/3246758-studer-a80-mkiv-1-2-4-track-tape-machine)
+
+{{% note %}}
+### Summary of Cleveland Recording Studio's Evolution and Success (1966-1973)
+
+#### Technological Advancements
+- In 1966, Cleveland Recording acquired a Studer 4-track recorder, which Hamann later modified to 8-tracks in 1968.
+- The multi-track recording capabilities allowed for more discrete and controllable recording of instruments in the final mix.
+
+{{% /note %}}
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+    <!-- First Video -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WGjvgvqOx7c" title="YouTube video player" frameborder="0" style="flex: 1;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zc0M7M0T6ic?si=ieu4RiGqgyw83_2l" title="YouTube video player" frameborder="0" style="flex: 1;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  </div>
+
+{{% note %}}
+
+#### Major Hits
+- The studio gained national attention when two Ohio groups, The Lemon Pipers and the Human Beinz, had their songs reach Billboard’s "Top Ten" in early 1968.
+ 
+{{% /note %}}
+
+
+---
+
+###  Grand Funk Railroad
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKoh3lS4Dcc?si=U-6V82NK6MF7YGeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+ 
+#### Notable Clients and Albums
+- Various local rock groups recorded there in 1968, including the James Gang with Joe Walsh.
+- Grand Funk Railroad, managed by Detroit musician Terry Knight, became one of the studio’s most lucrative clients. They recorded their first album at Cleveland Recording and would go on to record seven albums there between 1969 and 1973, each selling over a million copies.
+
+{{% /note %}}
+
+
+
+---
+
+[AMPEX MM-1000 Tape Machine](https://www.historyofrecording.com/ampexmm1000.html)
+
+{{% note %}}
+
+#### Business Decisions
+- Hamann convinced Fred Wolf to invest in a 16-track Ampex recorder, which proved to be a profitable move.
+  
+#### Studio Reputation and Competition
+- Terry Knight praised Cleveland Recording as one of the top five studios in the country, attributing this not just to the technology but also to the skill of engineer Ken Hamann and the studio's laid-back atmosphere.
+- Increased competition among independent studios led to an arms race in studio gear and heightened the importance of the studio's aesthetic and the skills of the engineers. 
+
+#### Endorsement and Loyalty
+- Despite offers from other studios, Terry Knight chose to stick with Cleveland Recording, comparing his successful streak there to "winning at poker" and not wanting to leave the table.
+  
+Overall, the period from 1966 to 1973 marked significant growth and success for Cleveland Recording, thanks in large part to technological advancements, high-profile clients, and the engineering skill and atmosphere provided by Ken Hamann.
+{{% /note %}}
+
+
 
 ---
 
