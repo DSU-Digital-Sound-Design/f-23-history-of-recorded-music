@@ -209,23 +209,35 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 <!--
 
-* ATMI conference - move material to next week or assign students work while you're gone
 * Holmes, Thom. Electronic and Experimental Music: Technology, Music, and Culture. United Kingdom: Taylor & Francis, 2015.[iBooks]
 * Brend. (2012). The sound of tomorrow : how electronic music was smuggled into the mainstream. Bloomsbury.[library](https://dsu.primo.exlibrisgroup.com/permalink/01SDBOR_DSU/1njvbkr/alma9993905425703642)
 * Start Project 3 
-* What Is Digital Sampling?
-* The Uncommon Parlance Of Paul Lansky
-* From “Take Yo’ Praise” To “Praise You”
-* Digital Aesthetics And Politics In “Fight The Power”
-* A+B=Mashup
+
 * J Dilla - Donuts; Book - Dilla Time 
 
 **Reading**
 
 [Chris Cutler, Plunderphonics](http://www.ezproxy.dsu.edu:2048/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=270036&site=ehost-live&scope=site&ebv=EB&ppid=pp_88)
 
-## Week 11 (10/30) - The evolution of electronic dance music
+-->
 
+# Week 11 (10/30) - The evolution of electronic dance music
+
+## Tuesday
+
+- StoryMap Project Presentations
+- Introducing [Recording Project 2: Record Sampling](../projects/project-2/) 
+
+## Thursday 
+
+* What Is Digital Sampling?
+* The Uncommon Parlance Of Paul Lansky
+* From “Take Yo’ Praise” To “Praise You”
+* Digital Aesthetics And Politics In “Fight The Power”
+* A+B=Mashup
+
+
+<!--
 * [The evolution of electronic dance music : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/evolutionofelect0000unse/page/10/mode/2up)
 	* Kraftwerk 
 	* Depeche Mode
@@ -236,7 +248,6 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * [Energy flash : a journey through rave music and dance culture : Reynolds, Simon, 1963- author : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/energyflashjourn0000reyn_c4c7/page/n9/mode/2up)
 * [All music guide to electronica : the definitive guide to electronic music : Bogdanov, Vladimir, 1965- : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/allmusicguidetoe00vlad/page/2/mode/2up)
 
-- **StoryLine** http://storyline.knightlab.com/ - record sales over time - explain what caused increases and decreases in record sales 
 
 ## Week 12 (11/6) -  Listening in Cyberspace - 2000s 
 
