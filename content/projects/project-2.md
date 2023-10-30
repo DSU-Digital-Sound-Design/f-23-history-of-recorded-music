@@ -13,7 +13,7 @@ In addition to the musical composition, you will complete a short 1-page written
 - Examples of groundbreaking uses of sampling in music history
 - Your own insights into the process of creating an original composition from existing source material
 
-The written component should demonstrate thoughtful consideration of how sampling and remixing pre-existing content raises important questions about copyright, creativity, and musical innovation. Please cite at least 2-3 sources to support your discussion. I'm looking forward to hearing the creative compositions and perspectives you produce! Let me know if you have any other questions.
+The written component should demonstrate thoughtful consideration of how sampling and remixing pre-existing content raises important questions about copyright, creativity, and musical innovation. Please cite at least 2-3 sources to support your discussion. 
 
 # Rubric 
 
