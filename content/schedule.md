@@ -226,7 +226,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 ## Tuesday
 
 - StoryMap Project Presentations
-- Introducing [Recording Project 2: Record Sampling](../projects/project-2/) 
+- Introducing [Recording Project 2: Record Sampling](../projects/project-2/) - Due 11/7
 
 ## Thursday 
 
@@ -259,9 +259,6 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * The Future Of File-Sharing
 *  Borschke, Margie. This Is Not a Remix. United Kingdom: Bloomsbury Publishing, 2017. [Dsu library]
 
-**Project 3 - Mashup**
-
-Create a musical composition based entirely on other recordings. These can be well-known recordings or hidden gems. Also, complete a written response covering copyright, originality, and creativity issues related to using preexisting recordings. 
 
 **Reading**
 
