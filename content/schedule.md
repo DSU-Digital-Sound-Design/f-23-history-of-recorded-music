@@ -221,7 +221,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 -->
 
-# Week 11 (10/30) - The evolution of electronic dance music
+# Week 11 (10/30) - Origins of Sampling 
 
 ## Tuesday
 
@@ -230,11 +230,8 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Thursday 
 
-* What Is Digital Sampling?
-* The Uncommon Parlance Of Paul Lansky
-* From “Take Yo’ Praise” To “Praise You”
-* Digital Aesthetics And Politics In “Fight The Power”
-* A+B=Mashup
+- Remaining StoryMap Project Presentations
+- [Music in 1s and 0s: The Art and Politics of Digital Sampling](../lectures/week-11/sampling/)
 
 
 <!--
