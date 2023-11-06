@@ -234,6 +234,18 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 - [Music in 1s and 0s: The Art and Politics of Digital Sampling](../lectures/week-11/sampling/)
 
 
+# Week 12 (11/6)
+
+## Tuesday 
+
+- Remaining StoryMap Project Presentations
+- [Music in 1s and 0s: The Art and Politics of Digital Sampling](../lectures/week-11/sampling/#/5)
+
+## Thursday 
+
+- Final project guidelines 
+
+
 <!--
 * [The evolution of electronic dance music : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/evolutionofelect0000unse/page/10/mode/2up)
 	* Kraftwerk 
@@ -245,8 +257,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 * [Energy flash : a journey through rave music and dance culture : Reynolds, Simon, 1963- author : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/energyflashjourn0000reyn_c4c7/page/n9/mode/2up)
 * [All music guide to electronica : the definitive guide to electronic music : Bogdanov, Vladimir, 1965- : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/allmusicguidetoe00vlad/page/2/mode/2up)
 
-
-## Week 12 (11/6) -  Listening in Cyberspace - 2000s 
+##  Listening in Cyberspace - 2000s 
 
 * Mp3 And P2p: Partners In Crime
 * Mp3 Versus Traditional Recording Media

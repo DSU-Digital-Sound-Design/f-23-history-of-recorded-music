@@ -134,6 +134,252 @@ This summary delves into the various facets of digital sampling, from its basic 
 
 ---
 
-<!-- * From “Take Yo’ Praise” To “Praise You”
-* Digital Aesthetics And Politics In “Fight The Power”
+##  From “Take Yo’ Praise” To “Praise You”
+
+<iframe id='ivplayer' width='640' height='360' src='https://inv.zzls.xyz/embed/ruAi4VBoBSM?t=5' style='border:none;'></iframe>
+
+{{% note %}}
+
+- **Introduction of the Song:**
+  - The recording begins with a piano playing an eight-bar introduction in a gospel style.
+  - The setting is imagined as a pianist playing on a battered upright piano, accompanying a nervous amateur singer.
+  - Some audience members are depicted as inattentive, engaging in neighborly conversations.
+
+- **Entry of the Singer:**
+  - The singer starts hesitantly, with lyrics reflecting a journey through hard and good times, expressing a need to celebrate and praise their partner.
+  
+- **Unexpected Musical Shift:**
+  - As the singer holds the final word "should", there's a notable disruption in the performance.
+  - The singer begins to stutter unnaturally on the word.
+  - A blend of percussion instruments and an electric bass enter, enriching the musical texture.
+  - The note is held for an extended period, around thirty seconds.
+
+- **Buildup to Up-tempo Dance:**
+  - A synthesized drum adds to the complexity, escalating from quarter notes to thirty-second notes.
+  - This buildup leads to an eruption into an up-tempo dance rhythm.
+
+- **Contextual Information:**
+  - The described music is from the introduction of "Praise You" by Norman Cook, also known as Fatboy Slim.
+  - The song is a hit from 1998, recognized in the genre of electronic dance music and famous both in Cook’s native Britain and internationally.
+{{%/ note %}}
+
+---
+
+## Camille Yarbrough - Take Yo' praise
+
+<iframe id='ivplayer' width='640' height='360' src='https://inv.zzls.xyz/embed/sGQbtyctPmE?t=28' style='border:none;'></iframe>
+
+{{% note %}}
+- **Origin of the Voice Sample:**
+  - The voice in "Praise You" is identified as Camille Yarbrough's, originally from her 1975 soul/funk song “Take Yo’ Praise.”
+  - The songs are available for comparison on a companion Web site.
+
+- **Digital Sampling Technique:**
+  - Norman Cook has used digital sampling to both decontextualize and recontextualize Yarbrough’s voice, creating new sounds, functions, and meanings.
+
+- **The Surprise in Sampling:**
+  - Cook only samples the first twenty seconds of “Take Yo’ Praise,” which features unaccompanied singing by Yarbrough.
+  - Listeners often mistakenly believe that the opening of “Praise You” is an unaltered live performance recording.
+
+- **Cook's Additions and Manipulations:**
+  - Cook added the piano, background voices, and enhanced the crackling LP sound from which the piano was sampled.
+  - He altered Yarbrough’s singing by increasing the tempo and flattening the melodic contour.
+
+- **Achieving Wholeness and Nostalgia:**
+  - Cook creates a sense of wholeness through harmonization and noise, using background chatter and crackling sounds.
+  - The background noise provides a sense of occasion, liveness, and place, while the crackling evokes a sense of time and nostalgia.
+
+- **Phonograph Effect:**
+  - The crackling sound is known as the phonograph effect, a digital simulation of the sounds from the vinyl age.
+  - Once considered an unwanted noise, it has become a meaningful element in modern sonic vocabulary.
+  - Cook uses this phonograph effect in “Praise You” to evoke nostalgia and transport listeners to a bygone era.
+{{%/ note %}}
+
+---
+
+## Techniques 
+
+- Original vs. Sampled
+- Cook's Techniques
+- Musical Variation
+- Meaning and Message
+- Gender Ambiguity and Neutering
+- Interpretations and Implications
+
+{{% note %}}
+### Summary with Bullet Points
+
+- **Original Song vs. Sampled Version:**
+  - Yarbrough's original song had a funky bass line, guitar, and percussion, evolving into a passionate, erotic piece with a postcoital coda.
+  - Cook's version diverges after the first sixteen measures, with a vocal stutter and a synthesized drum, creating an intentionally clumsy effect to highlight the sampling.
+
+- **Cook's Intention and Techniques:**
+  - The vocal stutter was Cook's way of drawing attention to the act of sampling.
+  - The first four seconds of "Praise You" are looped, revealing the digital construction of the piece.
+
+- **Variation and Repetition in Cook's Version:**
+  - Cook repeats Yarbrough's singing and the last line, "I have to praise you like I should," creating variation through changing accompaniments.
+  - Despite being dance music, Cook's version has subtle elements that reward attentive listening, contrary to Cook's own belief that his music is not meant for analytical listening.
+
+- **Reduction of Original Meaning:**
+  - Cook removes the complex, multifaceted love message and the broader social context of Yarbrough's original song.
+  - The repetition of a few words diminishes the lyrical significance, leading to its perception as a fun, non-serious track.
+
+- **Gender Ambiguity and Digital Neutering:**
+  - Cook's alterations lead listeners to question the singer's gender or assume it's a man.
+  - The technique of time-stretching, which changed Yarbrough's voice's nuances, contributes to the gender ambiguity.
+  - Cook's version lacks the original song's eroticism, rendering the voice asexual and potentially disempowering Yarbrough.
+
+- **Potential Interpretations and Implications:**
+  - Yarbrough's voice could be seen as a free-floating signifier, making the song universally relatable.
+  - Alternatively, Cook's sampling could be viewed as disempowering Yarbrough by erasing her history, identity, and vitality.
+{{%/ note %}}
+
+---
+
+## Ethical considerations 
+
+### Appropriation or Homage? 
+
+{{% note %}}
+- **Appropriation or Homage**: The song "Praise You" by Fatboy Slim (Cook) raises questions about whether it's another case of a white musician appropriating black culture. However, the situation is nuanced.
+  
+- **Yarbrough's Reaction**: Camille Yarbrough, the original artist, was pleasantly surprised by Cook's version and appreciated the emotional core and gospel quality he maintained, even though she was ambivalent about the "dance hall" sound.
+
+- **Profit and Fame**: There's an unequal power dynamic, with Cook being more popular and wealthy. Yet, Yarbrough didn't view Cook's adaptation as diminishing her work and acknowledged the financial benefits she received.
+
+- **Cook's Perspective**: Cook claims his intention isn't profit but love for the music. He ensured Yarbrough received credit and a significant share of the royalties, learning from a past experience where he didn't secure rights beforehand.
+
+- **Impact on Yarbrough**: "Praise You" brought renewed attention to Yarbrough and her music, leading to financial gains and a reevaluation of her place in popular music.
+
+- **Student Reactions**: Some students felt Yarbrough was exploited despite her acceptance of Cook's version and the financial compensation.
+
+- **Complexity in Digital Sampling**: The case exemplifies the complexities of digital sampling, raising questions about creativity, originality, and ethics, and forcing a confrontation with issues of gender, class, and race.
+{{%/ note %}}
+
+---
+
+# Digital Aesthetics And Politics In “Fight The Power”
+
+<iframe id='ivplayer' width='640' height='360' src='https://inv.zzls.xyz/embed/jRJKjiCtVco?t=3' style='border:none;'></iframe>
+
+[Tracks Sampled in Fight the Power by Public Enemy | WhoSampled](https://www.whosampled.com/Public-Enemy/Fight-the-Power/samples/)
+
+{{% note %}}
+### Summary of Passage
+
+**Context and Introduction:**
+- The passage discusses the opening of Public Enemy’s 1990 hip-hop classic "Fight the Power."
+- It starts with a lengthy quote from civil rights attorney and activist Thomas N. Todd, nicknamed TNT.
+  
+**Complex Sampling:**
+- The song is notable for its dense use of samples in the opening segment.
+- The Bomb Squad, Public Enemy’s production team, used more than a dozen samples in the first 27 seconds.
+
+**First Sample Section:**
+- A vocal sample repeating six times with a dotted rhythm.
+- The sample is from Trouble Funk’s 1982 song "Pump Me Up," but played backwards.
+- Accompanied by a melodic line and possibly electronically processed saxophone by Branford Marsalis.
+- Additional sounds include snare drum hits and vocal exclamations, possibly referencing Public Enemy’s MC, Chuck D.
+
+**Second Sample Section:**
+- Includes Clyde Stubblefield’s "Funky Drummer" solo, intertwined with numerous other samples.
+- Sounds in this section: fragmented vocal samples (including one from James Brown), guitar, synthesizer, bass, and various percussion.
+- The sound is described as dizzying, exhilarating, and too complex to absorb all at once.
+{{%/ note %}}
+
+---
+
+> "Our music is all about samples"
+> 
+> -- Chuck D
+
+{{% note %}}
+### Summary of Passage
+
+**Central Role of Sampling:**
+- Chuck D. of Public Enemy emphasizes the importance of recording technology and sampling to their music.
+- "Fight the Power" is highlighted as a complex work that demonstrates the potential of sound recording technology.
+
+**Influence of Technology and Culture:**
+- The track exemplifies how the aesthetic, cultural, and political priorities of musicians influence the use of technology.
+- It serves as a testament to the reciprocal influences between musician and machine.
+
+**Origins and Evolution of Looping:**
+- Looping in "Fight the Power" and rap music is rooted in the practices of 1970s hip-hop DJs.
+- DJs would loop instrumental solos by alternating between two turntables playing the same record.
+- Although modern rap doesn't typically use turntables for looping, the connection to DJing remains crucial.
+- Many hip-hop producers, including Hank and Keith Shocklee who worked on "Fight the Power," started as DJs.
+- Adhering to DJing practices and aesthetics is important for maintaining hip-hop credentials.
+
+**Economy and Extravagance in Sampling:**
+- "Fight the Power" incorporates numerous samples, yet each fragment is typically less than a second long.
+- The track is constructed through extensive looping, creating a complex texture from minimal material.
+- Chuck D. describes their technique as layering loops upon loops.
+- An example is provided of a four-second segment with at least ten distinct samples looped and repeated, creating a polyrhythmic texture.
+{{%/ note %}}
+
+---
+
+## Competing Ostinatos
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="margin: 10px;">
+    <iframe id='ivplayer1' width='640' height='360' src='https://inv.zzls.xyz/embed/QE5D2hJhacU?t=42' style='border:none;'></iframe>
+  </div>
+  
+  <div style="margin: 10px;">
+    <iframe id='ivplayer2' width='640' height='360' src='https://inv.zzls.xyz/embed/vIU63C8K7-8?t=23' style='border:none;'></iframe>
+  </div>
+</div>
+
+{{% note %}}
+
+**Effects of Complex Rhythms:**
+- Weaving together distinct and opposing rhythms creates an uneasy balance.
+- Despite the consistent pulse from repetition, the angular syncopation provides instability.
+- The resulting groove resists predictability, embodying a paradoxical quality.
+
+**Connection to African American Musical Traditions:**
+- Looping in "Fight the Power" extends earlier African American musical practices, not a departure from them.
+- Examples include James Brown’s works, which are densely packed with competing ostinatos.
+
+**Heterogeneous Sound Ideal:**
+- The track embodies Olly Wilson's "heterogeneous sound ideal" with a diversity of simultaneous tone colors.
+- This ideal is demonstrated in various African and African American repertoires.
+
+{{%/ note %}}
+
+---
+<!-- 
+{{% note %}}
+
+**Cultural and Political Significance of Sampling:**
+- Public Enemy's sampling in "Fight the Power" serves both musical and political purposes.
+- The song's lyrics address themes of black pride, opposition to white establishment, racism, and representation of blacks in culture.
+- The sampling provides homage to African American musical icons, reinforcing the track's political message.
+
+**Digital Sampling as a Form of Performative Quotation:**
+- Digital sampling allows for vivid invocation of black figures and cultural references.
+- The manipulability of recording technology enables interweaving these sounds into a rich collage.
+- Hip-hop sampling prioritizes the authenticity of the original recording, not live performance.
+
+**Use of Technology Serving Artistic Ends:**
+- Public Enemy employed digital sampling to serve their musical and rhetorical ends.
+- The song illustrates that stylistic priorities in rap music are not solely by-products of advanced reproduction equipment.
+
+**Continuation of Pre-Digital Practices:**
+- Sampling continues the predigital practice of signifying, a key aspect of African American communication involving multiple meanings.
+
+**Signifying and Double-Voicedness in "Fight the Power":**
+- The track features both literal and rhetorical double-voicedness, reflecting conflicts within the black community.
+- It critiques figures and sentiments perceived as counter to the African American struggle for equality.
+
+**Medium and Message Interdependence:**
+- The sampled voices' "grain" enhances the power of their statements.
+- "Fight the Power" serves as a treatise on the phonograph effect, demonstrating the intricate relationship between artist and technology.
+{{%/ note %}}
+
+---
+
 * A+B=Mashup -->
