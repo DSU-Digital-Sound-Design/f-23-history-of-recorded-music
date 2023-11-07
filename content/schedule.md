@@ -243,6 +243,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Thursday 
 
+[Sampling, Interpolations, Beat Stores and More: An Introduction for Musicians Using Preexisting Music An Introduction for Musicians Using Preexisting Music - Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf](https://www.copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf)
 - Final project guidelines 
 
 
