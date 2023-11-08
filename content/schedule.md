@@ -243,9 +243,10 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Thursday 
 
-[Sampling, Interpolations, Beat Stores and More: An Introduction for Musicians Using Preexisting Music An Introduction for Musicians Using Preexisting Music - Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf](https://www.copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf)
-- Final project guidelines 
+- Copyright and sampling 
 
+> Submit a proposal by next Tueday 
+> [Final Project Guidelines](../projects/final-project/)
 
 <!--
 * [The evolution of electronic dance music : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/evolutionofelect0000unse/page/10/mode/2up)
