@@ -243,7 +243,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Thursday 
 
-- Copyright and sampling 
+- [Copyright and sampling](../lectures/week-12/copyright-sampling/) 
 
 > Submit a proposal by next Tueday 
 > [Final Project Guidelines](../projects/final-project/)
