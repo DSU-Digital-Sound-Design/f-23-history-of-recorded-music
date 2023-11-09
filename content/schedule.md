@@ -245,7 +245,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 - [Copyright and sampling](../lectures/week-12/copyright-sampling/) 
 
-> Submit a proposal by next Tueday 
+> Submit a proposal by next Tuesday 
 > [Final Project Guidelines](../projects/final-project/)
 
 <!--
