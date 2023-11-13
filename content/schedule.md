@@ -248,49 +248,42 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 > Submit a proposal by next Tuesday 
 > [Final Project Guidelines](../projects/final-project/)
 
-<!--
-* [The evolution of electronic dance music : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/evolutionofelect0000unse/page/10/mode/2up)
-	* Kraftwerk 
-	* Depeche Mode
-	* Frankie Knuckles
-	* Juan Atkins
-	* The Rise of the Machines 
-	* etc 
-* [Energy flash : a journey through rave music and dance culture : Reynolds, Simon, 1963- author : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/energyflashjourn0000reyn_c4c7/page/n9/mode/2up)
-* [All music guide to electronica : the definitive guide to electronic music : Bogdanov, Vladimir, 1965- : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/allmusicguidetoe00vlad/page/2/mode/2up)
 
-##  Listening in Cyberspace - 2000s 
+# Week 13 (11/13) 
 
-* Mp3 And P2p: Partners In Crime
-* Mp3 Versus Traditional Recording Media
-* Listening To Mp3
-* The Social Aspects Of File-Sharing And Downloading
-* The Legal Debate Surrounding Mp3 And P2p
-* The Future Of File-Sharing
-*  Borschke, Margie. This Is Not a Remix. United Kingdom: Bloomsbury Publishing, 2017. [Dsu library]
+## Tuesday 
 
+- Listen to sampling projects 
 
-**Reading**
+## Thursday 
 
-Chapter 1 - This is not a remix
-
-**Introduce final project** 
-
-## Week 13 (11/13) - Making music with DAWS - 2010s
-
-* Strachan. (2017). Sonic Technologies: Popular Music, Digital Culture and the Creative Process. Bloomsbury Publishing. [Library](https://dsu.primo.exlibrisgroup.com/permalink/01SDBOR_DSU/k4qanc/cdi_askewsholts_vlebooks_9781501310645)
-
-**Listening Test 3**
+- Go over TOFT mixdown process 
 
   
-## Week 14 (11/20) - recording in the age of music streaming - current 
+# Week 14 (11/20) 
 
-- Butler. (2014). Playing with Something That Runs Technology, Improvisation, and Composition in DJ and Laptop Performance. Oxford University Press, USA.
+## Tuesday 
 
-**Reading**
+- Review TOFT mixdown process
 
-- The End of the World as We Know It: The Changing Role of the Studio in the Age of the Internet - Paul Théberge [link](x-devonthink-item://14F6DC0C-EFE0-4CBE-942F-E5F8E724A09B?page=99) - a nice summation of the whole class
+## Thursday 
 
-## Week 15 (11/27) - Individual meetings on final projects  
+- Everyone shows raw tracks they've recorded into TOFT
 
-## Week 16 (12/4) - Exam Week  -->
+## Week 15 (11/27) 
+
+## Tuesday 
+
+- Each student show's ability to route signals into TOFT and out to the outboard gear.  
+
+## Thursday 
+
+- Thanksgiving Holiday 
+
+## Week 16 (12/4)
+
+- Individual Meetings
+
+## Final Exam 
+
+December 7th, 1 - 3 pm 
