@@ -270,7 +270,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 - Everyone shows raw tracks they've recorded into TOFT
 
-## Week 15 (11/27) 
+# Week 15 (11/27) 
 
 ## Tuesday 
 
@@ -280,7 +280,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 - Thanksgiving Holiday 
 
-## Week 16 (12/4)
+# Week 16 (12/4)
 
 - Individual Meetings
 
