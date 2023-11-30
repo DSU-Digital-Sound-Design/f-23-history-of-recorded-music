@@ -268,7 +268,7 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Thursday 
 
-- Everyone shows raw tracks they've recorded into TOFT
+- Thanksgiving Holiday 
 
 # Week 15 (11/27) 
 
@@ -278,7 +278,8 @@ Read: Choose one article from the first AES Journal - make three comments and a 
 
 ## Thursday 
 
-- Thanksgiving Holiday 
+- Pick a project and have students create a mixdown to the TOFT as a group.
+- Use the UA Plugins when necessary instead of the outboard gear.
 
 # Week 16 (12/4)
 
