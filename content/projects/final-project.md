@@ -25,7 +25,7 @@ You will have at your disposal:
 
 #### Mixing Process
 - **Your mixdown will also be conducted using the Toft ATB Mixer**. Use its EQ, buses, and aux sends creatively to blend your tracks into a polished piece.
-- **Integrate the outboard gear thoughtfully**. The leveling amplifier, equalizer, compressor, and reverb chamber should be used to enhance and not overpower your mix.
+
 
 #### Documentation
 - **Document each step with photos**. Whether it's setting up mics, adjusting the mixer, or tweaking outboard gear settings, visual evidence is key. Show how each sound source was routed through the mixer and outboard gear.
